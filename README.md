@@ -1,3 +1,6 @@
+**This readme is incomplete and still a work in progress, but it is up to date enough to allow the list to be installed.**
+
+
 # Living Skyrim
 Current version: 5/15/2020 2.0.0 Alpha 1
 
