@@ -184,4 +184,6 @@ Open your inventory and select the Genesis Mod Options Book.
   - Set the Surface Locations Spawns to zero (0).
   - Set the Dungeon Spawns to 60.
 
+Open your Magic menu and select "Reflect..." from the powers menu.
+
 **Save your game after completing MCM setup, I promise you do not want to have to do this process more than once.**
