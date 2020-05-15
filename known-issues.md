@@ -10,3 +10,4 @@ LS2 Known Issues:
 - Campfire flames are red boxes sometimes. Unsure of cause.
 - XPMSE Styles don't load sometimes. Unsure of cause.
 - AllGUD is only partially functional, I haven't generated the meshes for it yet because I'm still not sure if we'll be cutting any weapons/armors.
+- Gender specific armors are not in leveled lists currently, they are craft only. I'm unsure how I want to handle these.
