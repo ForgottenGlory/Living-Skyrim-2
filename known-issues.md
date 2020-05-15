@@ -9,3 +9,4 @@ LS2 Known Issues:
 - Several weird object placements in Dawnstar, most likely caused by load order with JK's and The Great Cities patches.
 - Campfire flames are red boxes sometimes. Unsure of cause.
 - XPMSE Styles don't load sometimes. Unsure of cause.
+- AllGUD is only partially functional, I haven't generated the meshes for it yet because I'm still not sure if we'll be cutting any weapons/armors.
