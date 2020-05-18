@@ -268,10 +268,13 @@ If you're coming from a previous version of Living Skyrim (1.x.x), throw out eve
 Living Skyrim can be made NeverNude. The first thing you need to do is watch this video by Gopher: https://www.youtube.com/watch?v=Wkwtgp3x25s The video is for Fallout 4, but the process of using BodySlide is exactly the same for Skyrim Special Edition.
 
 Once you've watched that, follow these instructions:
-1. Reinstall "Caliente's Beautiful Bodies Enhancer -CBBE-" with "Vanilla Shape" and "NeverNude" options
+1. Reinstall "Caliente's Beautiful Bodies Enhancer -CBBE-" with "Curvy Shape" and "NeverNude" options
 2. Download this mod https://www.nexusmods.com/skyrimspecialedition/mods/16097 - "Bijin Family Bodyslides - CBBE NeverNude" using MO2
 3. Install "Bijin Family Bodyslides - CBBE NeverNude" and select: Bijin NPCs, Bijin Warmaidens, Bijin Wives and Serana and Enable it
 4. Open BodySlide, and then rebuild these bodies using your preferred CBBE preset: CBBE NeverNude, Bijin NPCs - Body, Bijin Warmaidens- Body, Bijin Wives - Body and Serana - Body
+5. You'll also need to disable "Vitruvia - skin texture overhaul for males SE" in the left pane of MO2 or install your own non-nude Male skin texture/mesh.
+
+Beyond what is written here, support is not provided for changing Living Skyrim to NeverNude. If you break it, you're on your own.
 
 ## Troubleshooting & FAQ
 Additions will be made to this FAQ as needed.
