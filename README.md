@@ -333,6 +333,9 @@ It's being modified by [EZ2C Dialogue Menu](https://www.nexusmods.com/skyrimspec
 **Immersive Spell Learning allows me to still read the spell tome to learn spells instantly!**
 Yes, this is a known issue and is somewhat intended. Legacy of the Dragonborn's museum counts spell tomes towards its display count, so rather than have players find/buy two copies of a spell tome (one to learn from and the other to store in the museum), I've opted to allow spell tomes to stay in your inventory. If you don't like having the temptation of "cheating" and don't mind having to hunt down a second copy of the book, you can always enable "Destroy Spell Tomes" in the Immersive Spell Learning MCM.
 
+**My health/stamina/magicka don't increase when leveling up!**
+This is intended. Natural Character Growth and Decay adjusts your stats as you use them. Using a lot of health/stamina? They'll automatically increase over time. The option to pick health/stamina/magicka will still appear due to game limitations, but it won't do anything. The same is true of carry weight: it will go up automatically over time if you're carrying a lot of items.
+
 ## Credits & Thanks
 - Living Skyrim created by ForgottenGlory
 - Living Skyrim 2 Dev Team:
