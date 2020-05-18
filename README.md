@@ -27,21 +27,21 @@ Current version: 5/15/2020 2.0.0 Alpha 1
   - [ENB](#enb)
 - [Updating Living Skyrim](#updating-living-skyrim)
 - [Important Mods You Need to Know About](#important-mods-you-need-to-know-about)
-  - [The Population Mods wip needs rewrite](#the-population-mods-wip-needs-rewrite)
-  - [The Quest Mods wip](#the-quest-mods-wip)
+  - [The Population Mods](#the-population-mods)
+  - [The Quest Mods](#the-quest-mods)
   - [Master of Disguise](#master-of-disguise)
-  - [Sustained Magic](#sustained-magic)
-  - [Archery Gameplay Overhaul](#archery-gameplay-overhaul)
-  - [Inez wip](#inez-wip)
-  - [Vitality Mode wip](#vitality-mode-wip)
-  - [Immersive Spell Learning](#immersive-spell-learning)
+  - [The Magic Mods](#the-magic-mods)
+  - [The Combat Mods](#the-combat-mods)
+  - [The SkyRem Suite](#the-skyrem-suite)
+  - [Vitality Mode](#vitality-mode)
   - [The HUD Mods](#the-hud-mods)
   - [Nether's Follower Framework](#nethers-follower-framework)
 - [Launching Living Skyrim](#launching-living-skyrim)
   - [The MCM Settings](#the-mcm-settings)
-  - [Final Thoughts & Best Practices](#final-thoughts--best-practices)
-    - [Getting Started in Living Skyrim](#getting-started-in-living-skyrim)
-    - [NeverNude?](#nevernude)
+- [Final Thoughts & Best Practices](#final-thoughts--best-practices)
+  - [Getting Started in Living Skyrim](#getting-started-in-living-skyrim)
+  - [NeverNude?](#nevernude)
+- [Troubleshooting & FAQ](#troubleshooting--faq)
 - [Credits & Thanks](#credits--thanks)
 
 ## Preface
@@ -168,31 +168,69 @@ If you are updating Living Skyrim, the process is very simple. Before you update
 ## Important Mods You Need to Know About
 This section details the most asked about mods included in Living Skyrim and is intended to give you a basic understanding of what to expect when you start the game.
 
-### The Population Mods wip needs rewrite
-Living Skyrim includes a number of mods that increase the population of both creatures and characters in the world. The first and most important one is [Populated Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/5017). This mod adds well over 100 new NPCs to locations throughout the world: cities, dungeons, caves, etc. Next is [OBIS](https://www.nexusmods.com/skyrimspecialedition/mods/4145), which adds a ton of mid to high-level bandits to the world. Also for your consideration: [Immersive World Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/18330), [Immersive Patrols](https://www.nexusmods.com/skyrimspecialedition/mods/718), and [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194). For creatures, you'll find [SkyTEST](https://www.nexusmods.com/skyrimspecialedition/mods/1104), [Skyrim Immersive Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/12680), and [Animallica](https://www.nexusmods.com/skyrimspecialedition/mods/20456).
+### The Population Mods
+Living Skyrim includes a number of mods that increase the population of both creatures and characters in the world. The first and most important one is [Genesis](https://www.nexusmods.com/skyrimspecialedition/mods/5033), which replaced Populated Skyrim in Living Skyrim 2.0.0. This mod dynamically spawns more enemies in dungeons and optionally in overworld locations as well. It is customizable with a book that is added to your inventory upon character creation. Be warned: Setting the spawn number too high (above 50) will result in an absolutely absurd number of enemies being added to dungeons. Additionally, if the setting is too high you may experience enemies spawning directly on top of you or in areas you've already cleared out. Be careful when playing with the settings for this mod. A spawn number of 40 is recommended.
 
-What does this mean? Well, to put it simply, there are *a lot* of NPCs to find and interact with now. Silent Moons Camp for example now has somewhere in the range of *40, yes, forty* enemies to fight. It is impossible to go more than 5 minutes without coming across an NPC of some kind be it bandits, a patrol, or an animal. Getting a follower or two (or five) is highly encouraged. This also means you will come across enemies that are significantly higher level than you when starting out. Embershard Mine can be about 50% cleared at level 3-5 before encountering *level 30* enemies. You will have to revisit dungeons once you are stronger. The [Take Notes](https://www.nexusmods.com/skyrimspecialedition/mods/13570) mod is included to chronicle your adventure and also to help you remember what places you need to revisit.
+Next is [OBIS](https://www.nexusmods.com/skyrimspecialedition/mods/4145), which adds a ton of mid to high-level bandits to the world. In general this covers most of the overworld locations, which is why the surface spawns setting for Genesis is recommended to be turned off.
 
-### The Quest Mods wip
-Not So Fast, good guys, etc
+[Organic Factions](https://www.nexusmods.com/skyrimspecialedition/mods/10289) adds groups of enemies that dynamically expand, recruit, and find new leaders. They will spread to conquer new territory and if left unchecked can take over entire holds. Keep an eye on the notifications for this mod, as it will keep you up to date on who is in control of what regions. You can also stumble across battles between factions if their territories overlap.
+
+Also for your consideration: [Immersive World Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/18330), [Immersive Patrols](https://www.nexusmods.com/skyrimspecialedition/mods/718), and [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194). For creatures, you'll find [SkyTEST](https://www.nexusmods.com/skyrimspecialedition/mods/1104), [Skyrim Immersive Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/12680), and [Animallica](https://www.nexusmods.com/skyrimspecialedition/mods/20456).
+
+What does this mean? Well, to put it simply, there are *a lot* of NPCs to find and interact with now. Silent Moons Camp for example now has somewhere in the range of 30 enemies to fight. It is impossible to go more than 5 minutes without coming across an NPC of some kind be it bandits, a patrol, or an animal. Getting a follower or two (or five) is highly encouraged. You will have to revisit some dungeons once you are stronger. The [Take Notes](https://www.nexusmods.com/skyrimspecialedition/mods/13570) mod is included to chronicle your adventure and also to help you remember what places you need to revisit.
+
+### The Quest Mods
+Very few quests are untouched by Living Skyrim. Whether it's a location revamp like [Bleak Falls Barrow Revisited](https://www.nexusmods.com/skyrimspecialedition/mods/33251), or a modification like [Finding Helgi and Laelette](https://www.nexusmods.com/skyrimspecialedition/mods/28973), it's unlikely you'll play any quest the same as you would in vanilla. This isn't even to mention all of the new quests added by Living Skyrim. See below for a complete list of quest-related changes and the new quests added by this list.
+
+|               Quest Changes              |         New Quests         |
+|:----------------------------------------:|:--------------------------:|
+| Timing is Everything                     | Helgen Reborn              |
+| Not So Fast - Main Quest                 | Legacy of the Dragonborn   |
+| Not So Fast - Mage Guild                 | Vigilant SE                |
+| Opulent Thieves Guild                    | Moonpath to Elsweyr        |
+| The Brotherhood of Old                   | Carved Brink               |
+| All Thieves Guild Jobs Concurrently      | The Gray Cowl of Nocturnal |
+| Thieves Guild Requirements               | The Falkreath Hauntings    |
+| The Paarthurnax Dilemma                  | The Forgotten City         |
+| The Choice is Yours                      | Moon and Star              |
+| Boethiah for Good Guys                   | Wyrmstooth                 |
+| Better College Application               | Clockwork                  |
+| Namira for Good Guys                     | Darkend                    |
+| The Companions - Don't be a Milk Drinker | Project AHO                |
+| House of Horrors Divine Intervention     | Immersive World Encounters |
+| Finding Helgi and Laelette               | Missives                   |
+| Bounties are Worthwhile                  | Konahrik's Accoutrements   |
+| Even Better Quest Objectives             |                            |
+| Thieves Guild for Good Guys              |                            |
 
 ### Master of Disguise
 [Master of Disguise](https://www.nexusmods.com/skyrimspecialedition/mods/9959) is a very simple mod: If you dress like a faction, you will be treated as that faction. So, if you dress as a necromancer, you will be attacked as if you are a necromancer by guards, soldiers, townsfolk, and so on. Be careful what you wear! This also allows you to infiltrate enemy factions if you dress carefully, but beware: they have a chance to see through your disguise and figure out you're an imposter.
 
-### Sustained Magic
+### The Magic Mods
 [Sustained Magic](https://www.nexusmods.com/skyrimspecialedition/mods/15871) is another simple mod, with much larger gameplay consequences. Certain spells, such as Oakflesh, now last forever instead of having to recast them every 60-90 seconds. This does come at the cost of reducing your maximum available Magicka, so be careful how many spells you have sustained or you'll very quickly find yourself with near zero Magicka to use for spells like Flames. To dispel the effects of a Sustained Magic spell (and therefore recoup your Magicka), either cast the spell again or cast the "Dispel Magic, Personal" spell.
 
-### Archery Gameplay Overhaul
+[Immersive Spell Learning](https://www.nexusmods.com/skyrimspecialedition/mods/33375) completely changes how your character learns new spells. Instead of "eating" the book and learning the spell, you now have to spend time studying notes about the spell to learn it over time. The amount of time it takes to learn new spells is completely configurable through this mod's MCM menu, so feel free to tweak it to your liking. This mod's inclusion is intended to help balance magic as the combination of magic mods included in Living Skyrim make magic *significantly* stronger.
+
+[Apocalypse](https://www.nexusmods.com/skyrimspecialedition/mods/1090), [Forgotten Magic](https://www.nexusmods.com/skyrimspecialedition/mods/12711), [Thunderchild](https://www.nexusmods.com/skyrimspecialedition/mods/1460), [Summermyst](https://www.nexusmods.com/skyrimspecialedition/mods/6285), [iUnlock](https://www.nexusmods.com/skyrimspecialedition/mods/35438), and [Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506) are all included to make magic as diverse as possible with a huge breadth of options. It's entirely possible to spend multiple playthroughs exploring all the magic-related playstyles. Wintersun covers the religious aspect of the game, Summermyst covers enchantments, and Thunderchild covers shouts. Apocalypse, Forgotten Magic, and iUnlock all add new spells.
+
+One final special mention: [Glory's Scaling Standing Stones](https://www.nexusmods.com/skyrimspecialedition/mods/35820). This is a custom mod hand-made by yours truly, ForgottenGlory. It is a lightweight overhaul of the standing stone effects and also makes them scale with you. If you are finding the game too difficult when starting out, I highly encourage you to seek out the standing stones - the Warrior, Thief, and Mage stones are particularly strong when starting out. Don't get used to having these bonuses though - they get weaker as you gain levels!
+
+### The Combat Mods
+The core combat package of Living Skyrim is [Ultimate Combat](https://www.nexusmods.com/skyrimspecialedition/mods/10289), [Wildcat](https://www.nexusmods.com/skyrimspecialedition/mods/10289), [TK Dodge](https://www.nexusmods.com/skyrimspecialedition/mods/15309), and [VioLens](https://www.nexusmods.com/skyrimspecialedition/mods/668). Assuming a fair fight this generally means that combat will be fast-paced and somewhat deadly. 
+
 [Archery Gameplay Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/24296) completely revamps the archery system in Skyrim. You'll find it now has much more realistic gameplay including arm fatigue, the ability to spread poisons across multiple arrows, stamina drain while the bowstring is pulled, and so on. This mod is highly configurable via its MCM menu, so feel free to tweak it to suit your playstyle.
 
-### Inez wip
-Encounter zones mod
+Also for your consideration: [SkyTEST](https://www.nexusmods.com/skyrimspecialedition/mods/1104), [Deadly Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/23723), [Skyrim Revamped](https://www.nexusmods.com/skyrimspecialedition/mods/14598), and [Encounter Zones Unlocked](https://www.nexusmods.com/skyrimspecialedition/mods/19608). Enemies in general will be smarter and stronger across the board, and will dynamically update their levels to match you as appropriate.
 
-### Vitality Mode wip
-needs mod
+### The SkyRem Suite
+Living Skyrim contains almost the entire lineup of SkyRem, with a couple of exceptions. The entirety of [SkyRem Grace](https://www.nexusmods.com/skyrimspecialedition/mods/26207) is included alongside SkyRem [Inez](https://www.nexusmods.com/skyrimspecialedition/mods/27103), [Eve](https://www.nexusmods.com/skyrimspecialedition/mods/26325), and [Mia](https://www.nexusmods.com/skyrimspecialedition/mods/26272).
 
-### Immersive Spell Learning
-[Immersive Spell Learning](https://www.nexusmods.com/skyrimspecialedition/mods/33375) completely changes how your character learns new spells. Instead of "eating" the book and learning the spell, you now have to spend time studying notes about the spell to learn it over time. The amount of time it takes to learn new spells is completely configurable through this mod's MCM menu, so feel free to tweak it to your liking. This mod's inclusion is intended to help balance magic as the combination of magic mods included in Living Skyrim make magic *significantly* stronger.
+Grace is focused entirely on making each character you make unique. You'll get different bonuses based on race, gender, how you assign points in attributes, and even what your character's early life was like. At higher levels, the Cori portion of Grace will allow you to select a class to specialize your character even further. 
+
+Inez changes how encounter zones in the game are calculated, increasing the variety of levels of enemies you'll find. Combined with the aforementioned Genesis and Encounter Zones Unlocked, no dungeon will ever play out the same. Mia is a very simple immersion mod that modifies the text you see when you go to interact with an object. Eve is an economy mod that, when combined with the other economy mods, makes Skyrim's economy incredibly diverse. It will be almost impossible to find the same item for the same price at two vendors.
+
+### Vitality Mode
+[Vitality Mode](https://www.nexusmods.com/skyrimspecialedition/mods/16308) is the needs mod of choice for Living Skyrim. It covers all of the basics: hunger, thirst, and fatigue and also covers Werewolf and Vampire needs. It doesn't change how many of the food and drink items work in the game, and also allows you to buy or make water. This mod features an MCM that allows you to completely customize your needs experience or turn it off entirely if you wish.
 
 ### The HUD Mods
 Living Skyrim includes a completely different UI and HUD experience than what you're used to, probably even if you've played modded Skyrim before. [SkyHUD](https://www.nexusmods.com/skyrimspecialedition/mods/463) is 100% customizable and has a number of presets available you can choose from to relocate the health/stamina/magicka bars and also relocate any HUD element, such as the stealth indicator. [EZ2C Dialogue Menu](https://www.nexusmods.com/skyrimspecialedition/mods/2246) changes the dialogue menu to be easier to read and use and is also 100% configurable. See the mod description pages for EZ2C and SkyHUD to see how to configure these to your liking. [Immersive HUD](https://www.nexusmods.com/skyrimspecialedition/mods/12440) keeps pesky HUD elements out of the way when you don't need to see them. Lastly, [Favorite Things](https://www.nexusmods.com/skyrimspecialedition/mods/27177) greatly expands the SkyUI Favorites menu to make it larger, easier to use, and more customizable. 
@@ -210,30 +248,81 @@ The hard part is now over. Carry on, the end is in sight!
 5. Once you see that no more items are appearing in the list in the top left, you can proceed to the next steps.
 
 ### The MCM Settings
-1. If you want the true Living Skyrim experience, consult the [Living Skyrim MCM Configuration](MCM%20Configuration.md) document and follow all listed steps. Note that some settings in this document are required for certain mods to work properly, namely Hunterborn, Lock Overhaul, OBIS, Immersive HUD, and XPMSE.
+1. If you want the true Living Skyrim experience, consult the [Living Skyrim MCM Configuration](ls2mcm.md) document and follow all listed steps. Note that some settings in this document are required for certain mods to work properly, namely Hunterborn, OBIS, Immersive HUD, and XPMSE, Genesis, and GRACE.
 2. Otherwise, configure the MCMs how you want. Feel free to experiment and turn the difficulty up/down to your preference.
 3. Don’t forget to save your game after configuring the MCMs, I promise you don’t want to have to do this step more than once.
 
-### Final Thoughts & Best Practices
+## Final Thoughts & Best Practices
 - If you are not familiar with the contents of this modlist, links are provided in the [LS2 Spreadsheet](https://docs.google.com/spreadsheets/d/1i31E32PtFQv_soryzrH8dOmk-Yk3n1GZIuQnuFsy2XY/edit?usp=sharing) to every mod so you can review their content/changes.
 - Autosaves and Quicksaves are disabled. These save options are known to cause issues with heavily scripted games.Quicksaves are automatically turned into Manual Saves. It is recommended to save **early** and **often**. Every 15 minutes and before interacting with quest NPCs, quest objects, and entering new zones should be sufficient. **Old saves can be deleted, but forgetting to save loses progress forever!**
 - Wabbajack supports updating/upgrading over an existing installation, but it will automatically delete any files that aren’t used for the modlist installation. This means if you have changed the modlist in any way, Wabbajack will delete those changes and **may even delete your saves.** Keep backups of any changes you do make (as ill-advised as making changes may be).
 - **NEVER** save right after a loading screen. Wait 30 seconds before saving to let scripts finish executing.
 - **NEVER** use autosaves. Autosaves are unpredictable at best, and save-corrupting at worst.
 
-#### Getting Started in Living Skyrim
+### Getting Started in Living Skyrim
 If you're coming from a previous version of Living Skyrim (1.x.x), throw out everything you thought you knew. If you're new to Living Skyrim, welcome! It's gonna be a bumpy ride - at first.
 
 - 
 
-#### NeverNude?
-Living Skyrim 2 can be made NeverNude. The first thing you need to do is watch this video by Gopher: https://www.youtube.com/watch?v=Wkwtgp3x25s The video is for Fallout 4, but the process of using BodySlide is exactly the same for Skyrim Special Edition.
+### NeverNude?
+Living Skyrim can be made NeverNude. The first thing you need to do is watch this video by Gopher: https://www.youtube.com/watch?v=Wkwtgp3x25s The video is for Fallout 4, but the process of using BodySlide is exactly the same for Skyrim Special Edition.
 
 Once you've watched that, follow these instructions:
 1. Reinstall "Caliente's Beautiful Bodies Enhancer -CBBE-" with "Vanilla Shape" and "NeverNude" options
 2. Download this mod https://www.nexusmods.com/skyrimspecialedition/mods/16097 - "Bijin Family Bodyslides - CBBE NeverNude" using MO2
 3. Install "Bijin Family Bodyslides - CBBE NeverNude" and select: Bijin NPCs, Bijin Warmaidens, Bijin Wives and Serana and Enable it
 4. Open BodySlide, and then rebuild these bodies using your preferred CBBE preset: CBBE NeverNude, Bijin NPCs - Body, Bijin Warmaidens- Body, Bijin Wives - Body and Serana - Body
+
+## Troubleshooting & FAQ
+Additions will be made to this FAQ as needed.
+
+**What do/don’t you support?**  
+All unmodified Wabbajack installs of Living Skyrim are supported. Pirated copies of Skyrim are illegal and not supported. Any modlist that changes Living Skyrim by adding/removing mods is not supported. Manually installed reproductions of Living Skyrim are not supported (though kudos will be given if you figure it out for yourself.). Re-shade and alternate ENBs are not supported. Mods from LE/Oldrim are not supported and will never be included in Living Skyrim. Converting old saves to Living Skyrim is not supported, only new saves created after Living Skyrim is installed are supported.
+
+**The installer isn’t working, what can I do?**  
+The short answer: wait for an update. The long answer is you can try to install the missing mods manually if the files are still available on the Nexus, but again, do not ask for anyone to share old files. I work a full-time job in addition to several other personal projects, of which Living Skyrim is just one. If installs are failing, I will try to update as quickly as possible but sometimes it may be a couple of days before I can get to it.
+
+**How often does Living Skyrim update?**  
+There’s no set schedule for Living Skyrim updates. If a mod updates and the list requires a revision, I’ll try to get to it as quickly as possible, but I make no promises. Sometimes troubleshooting updates and rebuilding the list can take days. Anytime there is an update, it will be clearly communicated on the Wabbajack Discord server. That being said, as long as nothing else changes, you should be safe to continue playing an existing installation unless there is an update to Skyrim itself. Remember: the point of all modlists is to play the game. If you’re spending more time updating your list than playing, you’re doing it wrong.
+
+**I found a bug! How do I report it?**  
+Check the [LS Issues](https://github.com/ForgottenGlory/Living-Skyrim-2/issues). If it’s not already on there, submit a new issue. Be as specific as possible, including screenshots if possible. If it is related to a specific mod, include the name of the mod and the exact steps to reproduce the issue. The best thing you can send for things like incorrect numbers/values or dark face NPCS (if there are any)  is a screenshot of the thing in question selected with the console including the ID of the object/character. Vague reports such as “my game randomly CTDs” will be ignored if they do not include more details.
+
+**Can I play this list on a 75/100/144hz screen?**  
+Yes. The SKSE64 Havok Fix is included.
+
+**Is [mod name] included in this list?**  
+Probably not. Check the [LS spreadsheet](https://docs.google.com/spreadsheets/d/1i31E32PtFQv_soryzrH8dOmk-Yk3n1GZIuQnuFsy2XY/edit?usp=sharing) to be certain. 
+
+**The modlist updated! Do I have to update and start a new save?**  
+If your game is working, you’re not required to update. It’s always recommended though, as updates likely fix bugs, update mods, or add new mods or remove unsatisfactory ones. As for starting a new save, it depends on the version. In general, anything that is an x.x.# update won’t break your save, and is usually just for when a mod updates and the list needs to be recompiled to make it work again. Anything that is an x.#.0 update adds or removes mods, which likely will break your save (unless otherwise specified). Any full version number changes, #.0.0, are major overhauls/rebuilds of the list and are guaranteed to break your save.
+
+**Can my computer run this list? [insert specs]**  
+If you have to ask, my guess is probably not. LS2 requires a strong computer to run well. You can reduce some of the demand on your computer by not using ENB, but for the most part computers with 4 or less VRAM are going to be unable to play LS2. PCs with 6GB of VRAM will perform moderately well. To get good performance, you'll need at least 8GB of VRAM on a relatively new graphics card.
+
+**Some Alternate Starts are impossible/OP!**  
+Unlikely. Fighting everything isn’t an option in this list, OBIS, Populated Skyrim, and the combat mods make sure of that. Running away is required sometimes. On the flip side, you’ll quickly run into enemies that are stronger than you even with the “OP” starts. Sometimes you’ll need to clear part of a dungeon and then come back to it later when you’re stronger. The Take Notes mod is very helpful for remembering places you need to revisit. If you’re struggling to level up, Missives and just exploring is your friend. Hunting wildlife is also viable. Most of the first few quests of the major factions/guilds are possible early on, but the main quest will likely need to wait until you’ve established yourself somewhat.
+
+**Can I stream/Let’s Play this modlist?**  
+Absolutely.
+
+**My equipment animations are broken/weird!**  
+First, check to make sure you’ve followed the MCM instructions for XPMSE. This should fix any weirdness (sword on hip but being drawn from back, for example.). If you’ve just equipped a new weapon/shield, the animation to draw it may be weird for a few seconds but it will eventually fix itself. XPMSE and AllGUD need a few seconds to register the new weapon configuration and should fix themselves. This is not a bug, just be patient and the mods will figure it out eventually.
+
+**Master of Disguise asks me to update every time I load the game.**  
+Yep, it’s really annoying. You can turn it off in the MCM for Master of Disguise in the Advanced Menu. Turn off the Factions Update Auto Run.
+
+**My game freezes when saving.**  
+Make sure you’ve disabled all overlays for Skyrim. The most common ones are Discord, Steam, and nVidia. 
+
+**Can I use this list on an ultrawide monitor?**  
+Yes, [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) is included by default. Just make sure to enable it.
+
+**What the heck is going on with the dialogue menu?**
+It's being modified by [EZ2C Dialogue Menu](https://www.nexusmods.com/skyrimspecialedition/mods/2246/). Check that mod's page for details of how to configure it if it's not to your liking.
+
+**Immersive Spell Learning allows me to still read the spell tome to learn spells instantly!**
+Yes, this is a known issue and is somewhat intended. Legacy of the Dragonborn's museum counts spell tomes towards its display count, so rather than have players find/buy two copies of a spell tome (one to learn from and the other to store in the museum), I've opted to allow spell tomes to stay in your inventory. If you don't like having the temptation of "cheating" and don't mind having to hunt down a second copy of the book, you can always enable "Destroy Spell Tomes" in the Immersive Spell Learning MCM.
 
 ## Credits & Thanks
 - Living Skyrim created by ForgottenGlory
@@ -244,6 +333,7 @@ Once you've watched that, follow these instructions:
   - JaceVenture
   - Magnus Hellfire
   - Bearnard
+  - Volkaru
 - Contributors & Beta Testers:
   - Patchier
   - DwarfDude
