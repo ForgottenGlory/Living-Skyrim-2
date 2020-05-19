@@ -329,13 +329,13 @@ Make sure you’ve disabled all overlays for Skyrim. The most common ones are Di
 **Can I use this list on an ultrawide monitor?**  
 Yes, [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) is included by default. Just make sure to enable it.
 
-**What the heck is going on with the dialogue menu?**
+**What the heck is going on with the dialogue menu?**  
 It's being modified by [EZ2C Dialogue Menu](https://www.nexusmods.com/skyrimspecialedition/mods/2246/). Check that mod's page for details of how to configure it if it's not to your liking.
 
-**Immersive Spell Learning allows me to still read the spell tome to learn spells instantly!**
+**Immersive Spell Learning allows me to still read the spell tome to learn spells instantly!**  
 Yes, this is a known issue and is somewhat intended. Legacy of the Dragonborn's museum counts spell tomes towards its display count, so rather than have players find/buy two copies of a spell tome (one to learn from and the other to store in the museum), I've opted to allow spell tomes to stay in your inventory. If you don't like having the temptation of "cheating" and don't mind having to hunt down a second copy of the book, you can always enable "Destroy Spell Tomes" in the Immersive Spell Learning MCM.
 
-**My health/stamina/magicka don't increase when leveling up!**
+**My health/stamina/magicka don't increase when leveling up!**  
 This is intended. Natural Character Growth and Decay adjusts your stats as you use them. Using a lot of health/stamina? They'll automatically increase over time. The option to pick health/stamina/magicka will still appear due to game limitations, but it won't do anything. The same is true of carry weight: it will go up automatically over time if you're carrying a lot of items. If you want to cheat, you can turn the level-up bonuses to health/magicka/stamina back on in the NCGD MCM menu.
 
 ## Credits & Thanks
