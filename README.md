@@ -338,6 +338,9 @@ Yes, this is a known issue and is somewhat intended. Legacy of the Dragonborn's 
 **My health/stamina/magicka don't increase when leveling up!**  
 This is intended. Natural Character Growth and Decay adjusts your stats as you use them. Using a lot of health/stamina? They'll automatically increase over time. The option to pick health/stamina/magicka will still appear due to game limitations, but it won't do anything. The same is true of carry weight: it will go up automatically over time if you're carrying a lot of items. If you want to cheat, you can turn the level-up bonuses to health/magicka/stamina back on in the NCGD MCM menu.
 
+**Can I request a mod be added to Living Skyrim?**  
+Yes. To submit a mod to be considered for inclusion in LS, you must attach a copy of your save game where you have defeated Alduin using an unmodified LS installation. Any suggestions without this attached will be automatically rejected. This is not a guarantee that the mod will be included, only that it will be considered.
+
 ## Credits & Thanks
 - Living Skyrim created by ForgottenGlory
 - Living Skyrim 2 Dev Team:
