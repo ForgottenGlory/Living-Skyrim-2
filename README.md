@@ -272,18 +272,9 @@ If you're coming from a previous version of Living Skyrim (1.x.x), throw out eve
 - Specialize your character. The combination of class and customization mods lets you focus your character in a way that vanilla Skyrim never did. It's extremely likely you'll start with one, maybe two skills that are any good and the rest will be total garbage. Focus on what your character is good at and it will pay dividends. When selecting how to allocate your attribute points, think about the rest of your build and put points into attributes that compliment how you want to play. Many attributes provide direct bonuses to how much damage you deal with specific types of weapons, how much health/stamina/magicka you start with, and so on. Specialized characters are much better suited to the challenges of Living Skyrim than jack-of-all-trades types. This also encourages you to pick up a follower that compliments your skills. Playing a tanky two-handed character? Find a follower that can cast healing spells on you and do magic damage from the backline. Playing a stealth archer (again)? Find a beefy sword and shield warrior to keep the enemies at bay while you snipe from the shadows.
 
 ### NeverNude?
-Living Skyrim can be made NeverNude. The first thing you need to do is watch this video by Gopher: https://www.youtube.com/watch?v=Wkwtgp3x25s The video is for Fallout 4, but the process of using BodySlide is exactly the same for Skyrim Special Edition.
-
-Once you've watched that, follow these instructions EXACTLY to the letter (ANY deviation will not receive support):
-1. Reinstall "Caliente's Beautiful Bodies Enhancer -CBBE-" with "Curvy Shape" and "NeverNude" options. You can select "Underwear" instead of "NeverNude" if you don't mind variety, but keep in mind that the Bijin bodies will have different underwear textures than the rest if you do this, and we will not help you to put the "Underwear" body on them.
-2. Download this mod https://www.nexusmods.com/skyrimspecialedition/mods/16097 - "Bijin Family Bodyslides - CBBE NeverNude" using MO2.
-3. Install "Bijin Family Bodyslides - CBBE NeverNude" and select: Bijin NPCs, Bijin Warmaidens, Bijin Wives, Serana, and Valerica and enable it.
-4. Open BodySlide, and then rebuild these bodies using your preferred CBBE preset: CBBE NeverNude (or Underwear if you chose it in the installer), Bijin NPCs - Body, Bijin Warmaidens- Body, Bijin Wives - Body, Serana - Body, and Valerica - Body.
-5. Reinstall "Vitruvia - skin texture overhaul for males SE" and select the "NeverNude" option.
-
-This will change all nude bodies in the game to not be nude. This includes both male and female bodies, Khajiit and Argonian bodies, Sofia, and all the Bijin bodies.
-
-Beyond what is written here, support is not provided for changing Living Skyrim to NeverNude. If you desire to change something or someone not affected by this change, or if you break it, you're on your own.
+Living Skyrim can be made NeverNude.
+[This guide](https://docs.google.com/document/d/1MdDys1Bl4fd0nhv17aS2Qhh4ZVJSEEVzZnlaglx5sII/edit?usp=sharing) will guide you through what you need to do to convert Living Skyrim to NeverNude.
+Beyond what is written in the guide, support is not provided for changing Living Skyrim to NeverNude. If you desire to change something or someone not affected by the guide, or if you break the game, you're on your own.
 
 ### Adding to Living Skyrim
 The first thing you need to know is that adding to, removing from, or changing Living Skyrim is in no way, shape, or form supported by the LS dev team or Wabbajack team. That said, if you're feeling brave, here are the skills you need to be able to add to Living Skyrim:
