@@ -76,6 +76,14 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
   - Features
     - Click Start Hunterborn, then exit the MCM.
 
+* Immersive Encounters
+  * New Events Toggle
+    * Custom Voice WE Events: Disabled
+    * Custom Voice WI Events: Disabled
+    * Enable Tavern Brawl: Disabled
+    * Enable Town Thief: Disabled
+    * Dragon Attack in City: Disabled
+
 * Immersive HUD
   * Activation
     * Key press toggles: Enabled
@@ -179,11 +187,28 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
 
 Finally:
 
-Open your inventory and select the Genesis Mod Options Book.
+Open your inventory and select the Genesis Mod Options Book. If you do not have this book in your inventory, open the console with the tilde key `~` and type `player.additem CE0009B1 1` exactly as written and then press Enter.
   - Disable Spawn Near Player
   - Set the Surface Locations Spawns to zero (0).
-  - Set the Dungeon Spawns to 60.
+  - Set the Dungeon Spawns to 40.
+
+Once you have configured Genesis you can discard of the book however you like.  
 
 Open your Magic menu and select "Reflect..." from the powers menu.
+* iEquip
+**Important!: iEquip CANNOT be configured until after you have selected your Alternate Start and loaded into the gameworld proper. It will not allow you to do so until after you've loaded into your starting area.**
+* General settings
+  * iEquip On: Enabled
+  * Now exit the menu and wait for the widget to appear.
+
+You can configure iEquip how you want, but I recommend the following.
+* Queue Options
+  * Item caching and blacklisting
+    * Blacklist Manually Removed Items: Enabled
+  * Misc UI Options
+    * Enable Widget Fadeout: Enabled
+    * Fadeout Delay: 10
+    * Fadeout Speed: Fast
+
 
 **Save your game after completing MCM setup, I promise you do not want to have to do this process more than once.**

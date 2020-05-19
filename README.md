@@ -2,7 +2,7 @@
 
 
 # Living Skyrim
-Current version: 5/15/2020 2.0.0 Alpha 1
+Current version: 5/19/2020 2.0.0 Alpha 5
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
@@ -41,6 +41,7 @@ Current version: 5/15/2020 2.0.0 Alpha 1
 - [Final Thoughts & Best Practices](#final-thoughts--best-practices)
   - [Getting Started in Living Skyrim](#getting-started-in-living-skyrim)
   - [NeverNude?](#nevernude)
+  - [Adding to Living Skyrim](#adding-to-living-skyrim)
 - [Troubleshooting & FAQ](#troubleshooting--faq)
 - [Credits & Thanks](#credits--thanks)
 
@@ -281,6 +282,21 @@ Once you've watched that, follow these instructions:
 5. You'll also need to disable "Vitruvia - skin texture overhaul for males SE" in the left pane of MO2 or install your own non-nude Male skin texture/mesh.
 
 Beyond what is written here, support is not provided for changing Living Skyrim to NeverNude. If you break it, you're on your own.
+
+### Adding to Living Skyrim
+The first thing you need to know is that adding to, removing from, or changing Living Skyrim is in no way, shape, or form supported by the LS dev team or Wabbajack team. That said, if you're feeling brave, here are the skills you need to be able to add to Living Skyrim:
+
+   - Conflict resolution in xEdit.
+   - Dissecting merges and building new merges using zMerge.
+   - Using Cathedral Assets Optimizer.
+   - Modifying Bash Tags and rebuilding Bashed Patch using Wrye Bash.
+   - Using Creation Kit to undo or redo changes we've made.
+   - Using zEdit to create and rebuild patches.
+   - Using FNIS.
+   - Using Bodyslide/Outfit Studio.
+   - Using custom LOOT groups and metadata.
+
+If you are missing any of these skills, you either need to be willing to put in the time to learn them to even consider adding to Living Skyrim. Again, no support is provided for this, so you are *completely on your own* when it comes to these. If you aren't willing to put in the time to learn how to add mods properly, you will *not, under any circumstances* be able to add to the list.
 
 ## Troubleshooting & FAQ
 Additions will be made to this FAQ as needed.
