@@ -273,14 +273,15 @@ If you're coming from a previous version of Living Skyrim (1.x.x), throw out eve
 ### NeverNude?
 Living Skyrim can be made NeverNude. The first thing you need to do is watch this video by Gopher: https://www.youtube.com/watch?v=Wkwtgp3x25s The video is for Fallout 4, but the process of using BodySlide is exactly the same for Skyrim Special Edition.
 
-Once you've watched that, follow these instructions:
-1. Reinstall "Caliente's Beautiful Bodies Enhancer -CBBE-" with "Curvy Shape" and "NeverNude" options
-2. Download this mod https://www.nexusmods.com/skyrimspecialedition/mods/16097 - "Bijin Family Bodyslides - CBBE NeverNude" using MO2
-3. Install "Bijin Family Bodyslides - CBBE NeverNude" and select: Bijin NPCs, Bijin Warmaidens, Bijin Wives and Serana and Enable it
-4. Open BodySlide, and then rebuild these bodies using your preferred CBBE preset: CBBE NeverNude, Bijin NPCs - Body, Bijin Warmaidens- Body, Bijin Wives - Body and Serana - Body
-5. You'll also need to disable "Vitruvia - skin texture overhaul for males SE" in the left pane of MO2 or install your own non-nude Male skin texture/mesh.
+Once you've watched that, follow these instructions EXACTLY to the letter (ANY deviation will not receive support):
+1. Reinstall "Caliente's Beautiful Bodies Enhancer -CBBE-" with "Curvy Shape" and "NeverNude" options. You can select "Underwear" instead of "NeverNude" if you don't mind variety, but keep in mind that the Bijin bodies will have different underwear textures than the rest if you do this, and we will not help you to put the "Underwear" body on them.
+2. Download this mod https://www.nexusmods.com/skyrimspecialedition/mods/16097 - "Bijin Family Bodyslides - CBBE NeverNude" using MO2.
+3. Install "Bijin Family Bodyslides - CBBE NeverNude" and select: Bijin NPCs, Bijin Warmaidens, Bijin Wives, Serana, and Valerica and enable it.
+4. Open BodySlide, and then rebuild these bodies using your preferred CBBE preset: CBBE NeverNude (or Underwear if you chose it in the installer), Bijin NPCs - Body, Bijin Warmaidens- Body, Bijin Wives - Body, Serana - Body, and Valerica - Body.
+5. Reinstall "Vitruvia - skin texture overhaul for males SE" and select the "NeverNude" option. //Can confirm that it works just fine
 
-Beyond what is written here, support is not provided for changing Living Skyrim to NeverNude. If you break it, you're on your own.
+This will change all nude bodies in the game to not be nude. This includes both male and female bodies, Khajiit and Argonian bodies, Sofia, and all the Bijin bodies.
+Beyond what is written here, support is not provided for changing Living Skyrim to NeverNude. If you desire to change something or someone not affected by this change, or if you break it, you're on your own.
 
 ## Troubleshooting & FAQ
 Additions will be made to this FAQ as needed.
