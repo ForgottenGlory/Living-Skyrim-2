@@ -274,14 +274,16 @@ If you're coming from a previous version of Living Skyrim (1.x.x), throw out eve
 ### NeverNude?
 Living Skyrim can be made NeverNude. The first thing you need to do is watch this video by Gopher: https://www.youtube.com/watch?v=Wkwtgp3x25s The video is for Fallout 4, but the process of using BodySlide is exactly the same for Skyrim Special Edition.
 
-Once you've watched that, follow these instructions:
-1. Reinstall "Caliente's Beautiful Bodies Enhancer -CBBE-" with "Curvy Shape" and "NeverNude" options
-2. Download this mod https://www.nexusmods.com/skyrimspecialedition/mods/16097 - "Bijin Family Bodyslides - CBBE NeverNude" using MO2
-3. Install "Bijin Family Bodyslides - CBBE NeverNude" and select: Bijin NPCs, Bijin Warmaidens, Bijin Wives and Serana and Enable it
-4. Open BodySlide, and then rebuild these bodies using your preferred CBBE preset: CBBE NeverNude, Bijin NPCs - Body, Bijin Warmaidens- Body, Bijin Wives - Body and Serana - Body
-5. You'll also need to disable "Vitruvia - skin texture overhaul for males SE" in the left pane of MO2 or install your own non-nude Male skin texture/mesh.
+Once you've watched that, follow these instructions EXACTLY to the letter (ANY deviation will not receive support):
+1. Reinstall "Caliente's Beautiful Bodies Enhancer -CBBE-" with "Curvy Shape" and "NeverNude" options. You can select "Underwear" instead of "NeverNude" if you don't mind variety, but keep in mind that the Bijin bodies will have different underwear textures than the rest if you do this, and we will not help you to put the "Underwear" body on them.
+2. Download this mod https://www.nexusmods.com/skyrimspecialedition/mods/16097 - "Bijin Family Bodyslides - CBBE NeverNude" using MO2.
+3. Install "Bijin Family Bodyslides - CBBE NeverNude" and select: Bijin NPCs, Bijin Warmaidens, Bijin Wives, Serana, and Valerica and enable it.
+4. Open BodySlide, and then rebuild these bodies using your preferred CBBE preset: CBBE NeverNude (or Underwear if you chose it in the installer), Bijin NPCs - Body, Bijin Warmaidens- Body, Bijin Wives - Body, Serana - Body, and Valerica - Body.
+5. Reinstall "Vitruvia - skin texture overhaul for males SE" and select the "NeverNude" option.
 
-Beyond what is written here, support is not provided for changing Living Skyrim to NeverNude. If you break it, you're on your own.
+This will change all nude bodies in the game to not be nude. This includes both male and female bodies, Khajiit and Argonian bodies, Sofia, and all the Bijin bodies.
+
+Beyond what is written here, support is not provided for changing Living Skyrim to NeverNude. If you desire to change something or someone not affected by this change, or if you break it, you're on your own.
 
 ### Adding to Living Skyrim
 The first thing you need to know is that adding to, removing from, or changing Living Skyrim is in no way, shape, or form supported by the LS dev team or Wabbajack team. That said, if you're feeling brave, here are the skills you need to be able to add to Living Skyrim:
@@ -343,14 +345,17 @@ Make sure you’ve disabled all overlays for Skyrim. The most common ones are Di
 **Can I use this list on an ultrawide monitor?**  
 Yes, [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) is included by default. Just make sure to enable it.
 
-**What the heck is going on with the dialogue menu?**
+**What the heck is going on with the dialogue menu?**  
 It's being modified by [EZ2C Dialogue Menu](https://www.nexusmods.com/skyrimspecialedition/mods/2246/). Check that mod's page for details of how to configure it if it's not to your liking.
 
-**Immersive Spell Learning allows me to still read the spell tome to learn spells instantly!**
+**Immersive Spell Learning allows me to still read the spell tome to learn spells instantly!**  
 Yes, this is a known issue and is somewhat intended. Legacy of the Dragonborn's museum counts spell tomes towards its display count, so rather than have players find/buy two copies of a spell tome (one to learn from and the other to store in the museum), I've opted to allow spell tomes to stay in your inventory. If you don't like having the temptation of "cheating" and don't mind having to hunt down a second copy of the book, you can always enable "Destroy Spell Tomes" in the Immersive Spell Learning MCM.
 
-**My health/stamina/magicka don't increase when leveling up!**
+**My health/stamina/magicka don't increase when leveling up!**  
 This is intended. Natural Character Growth and Decay adjusts your stats as you use them. Using a lot of health/stamina? They'll automatically increase over time. The option to pick health/stamina/magicka will still appear due to game limitations, but it won't do anything. The same is true of carry weight: it will go up automatically over time if you're carrying a lot of items. If you want to cheat, you can turn the level-up bonuses to health/magicka/stamina back on in the NCGD MCM menu.
+
+**Can I request a mod be added to Living Skyrim?**  
+Yes. To submit a mod to be considered for inclusion in LS, you must attach a copy of your save game where you have defeated Alduin using an unmodified LS installation. Any suggestions without this attached will be automatically rejected. This is not a guarantee that the mod will be included, only that it will be considered.
 
 ## Credits & Thanks
 - Living Skyrim created by ForgottenGlory
