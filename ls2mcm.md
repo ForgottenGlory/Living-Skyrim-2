@@ -194,9 +194,12 @@ Open your inventory and select the Genesis Mod Options Book. If you do not have 
 
 Once you have configured Genesis you can discard of the book however you like.  
 
-Open your Magic menu and select "Reflect..." from the powers menu.
+Open your Magic menu and select "Reflect..." from the powers menu.  Select whatever background/bonus you like.
+
+And last but not least, go back into the MCM for...  
+
 * iEquip
-**Important!: iEquip CANNOT be configured until after you have selected your Alternate Start and loaded into the gameworld proper. It will not allow you to do so until after you've loaded into your starting area.**
+* **Important!: iEquip CANNOT be configured until after you have selected your Alternate Start and loaded into the gameworld proper. It will not allow you to do so until after you've loaded into your starting area.**
 * General settings
   * iEquip On: Enabled
   * Now exit the menu and wait for the widget to appear.
