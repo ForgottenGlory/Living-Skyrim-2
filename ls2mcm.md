@@ -187,12 +187,12 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
 
 Finally:
 
-Open your inventory and select the Genesis Mod Options Book. If you do not have this book in your inventory, open the console with the tilde key `~` and type `player.additem CE0009B1 1` exactly as written and then press Enter.
+Take the Genesis Options book from the table next to the Statue of Mara. Configure Genesis as follows:
   - Disable Spawn Near Player
   - Set the Surface Locations Spawns to zero (0).
   - Set the Dungeon Spawns to 40.
 
-Once you have configured Genesis you can discard of the book however you like.  
+Once you have configured Genesis you can discard of the book however you like, or keep it to change settings to your liking later.
 
 Open your Magic menu and select "Reflect..." from the powers menu.  Select whatever background/bonus you like.
 

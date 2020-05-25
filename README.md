@@ -2,7 +2,7 @@
 
 
 # Living Skyrim
-Current version: 5/19/2020 2.0.0 Alpha 5
+Current version: 5/23/2020 2.0.0 Alpha 7
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
@@ -33,7 +33,9 @@ Current version: 5/19/2020 2.0.0 Alpha 5
   - [The Magic Mods](#the-magic-mods)
   - [The Combat Mods](#the-combat-mods)
   - [The SkyRem Suite](#the-skyrem-suite)
+  - [The Economy & Loot Mods](#the-economy--loot-mods)
   - [Vitality Mode](#vitality-mode)
+  - [The Perks & Leveling Mods](#the-perks--leveling-mods)
   - [The HUD Mods](#the-hud-mods)
   - [Nether's Follower Framework](#nethers-follower-framework)
 - [Launching Living Skyrim](#launching-living-skyrim)
@@ -170,7 +172,7 @@ If you are updating Living Skyrim, the process is very simple. Before you update
 This section details the most asked about mods included in Living Skyrim and is intended to give you a basic understanding of what to expect when you start the game.
 
 ### The Population Mods
-Living Skyrim includes a number of mods that increase the population of both creatures and characters in the world. The first and most important one is [Genesis](https://www.nexusmods.com/skyrimspecialedition/mods/5033), which replaced Populated Skyrim in Living Skyrim 2.0.0. This mod dynamically spawns more enemies in dungeons and optionally in overworld locations as well. It is customizable with a book that is added to your inventory upon character creation. Be warned: Setting the spawn number too high (above 50) will result in an absolutely absurd number of enemies being added to dungeons. Additionally, if the setting is too high you may experience enemies spawning directly on top of you or in areas you've already cleared out. Be careful when playing with the settings for this mod. A spawn number of 40 is recommended.
+Living Skyrim includes a number of mods that increase the population of both creatures and characters in the world. The first and most important one is [Genesis](https://www.nexusmods.com/skyrimspecialedition/mods/5033), which replaced Populated Skyrim in Living Skyrim 2.0.0. This mod dynamically spawns more enemies in dungeons and optionally in overworld locations as well. It is customizable with a book that you'll pick up in the Alternate Start cell. Be warned: Setting the spawn number too high (above 50) will result in an absolutely absurd number of enemies being added to dungeons. Additionally, if the setting is too high you may experience enemies spawning directly on top of you or in areas you've already cleared out. Be careful when playing with the settings for this mod. A dungeon spawn number of 40 is recommended.
 
 Next is [OBIS](https://www.nexusmods.com/skyrimspecialedition/mods/4145), which adds a ton of mid to high-level bandits to the world. In general this covers most of the overworld locations, which is why the surface spawns setting for Genesis is recommended to be turned off.
 
@@ -181,9 +183,9 @@ Also for your consideration: [Immersive World Encounters](https://www.nexusmods.
 What does this mean? Well, to put it simply, there are *a lot* of NPCs to find and interact with now. Silent Moons Camp for example now has somewhere in the range of 30 enemies to fight. It is impossible to go more than 5 minutes without coming across an NPC of some kind be it bandits, a patrol, or an animal. Getting a follower or two (or five) is highly encouraged. You will have to revisit some dungeons once you are stronger. The [Take Notes](https://www.nexusmods.com/skyrimspecialedition/mods/13570) mod is included to chronicle your adventure and also to help you remember what places you need to revisit.
 
 ### The Quest Mods
-Very few quests are untouched by Living Skyrim. Whether it's a location revamp like [Bleak Falls Barrow Revisited](https://www.nexusmods.com/skyrimspecialedition/mods/33251), or a modification like [Finding Helgi and Laelette](https://www.nexusmods.com/skyrimspecialedition/mods/28973), it's unlikely you'll play any quest the same as you would in vanilla. This isn't even to mention all of the new quests added by Living Skyrim. See below for a complete list of quest-related changes and the new quests added by this list.
+Very few quests are untouched by Living Skyrim. Whether it's a location revamp like [Bleak Falls Barrow Revisited](https://www.nexusmods.com/skyrimspecialedition/mods/33251), or a quest rewrite like [Finding Helgi and Laelette](https://www.nexusmods.com/skyrimspecialedition/mods/28973), it's unlikely you'll play any quest the same as you would in vanilla. This isn't even to mention all of the new quests added by Living Skyrim. See below for a complete list of quest-related changes and the new quests added by this list.
 
-|               Quest Changes              |         New Quests         |
+|               Quest Changes              |         New Quests & Lands |
 |:----------------------------------------:|:--------------------------:|
 | Timing is Everything                     | Helgen Reborn              |
 | Not So Fast - Main Quest                 | Legacy of the Dragonborn   |
@@ -201,8 +203,12 @@ Very few quests are untouched by Living Skyrim. Whether it's a location revamp l
 | House of Horrors Divine Intervention     | Immersive World Encounters |
 | Finding Helgi and Laelette               | Missives                   |
 | Bounties are Worthwhile                  | Konahrik's Accoutrements   |
-| Even Better Quest Objectives             |                            |
-| Thieves Guild for Good Guys              |                            |
+| Even Better Quest Objectives             | Falskaar                   |
+| Thieves Guild for Good Guys              | Hammet's Dungeons & Vominheim |
+
+It would take a tome to cover every single mod here, but there are a few to be aware of in particular: [Not So Fast - Main Quest](https://www.nexusmods.com/skyrimspecialedition/mods/2475), [Not So Fast - Mage Guild](https://www.nexusmods.com/skyrimspecialedition/mods/5686), [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464), and [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802). The first two introduce breaks in the main storyline of Skyrim and the Mage's Guild, giving you time to go do other things while waiting for those to progress. You'll need these breaks as there's a significant difficulty spike between Bleak Falls Barrow and your first dragon fight as well as between the First Lessons quest and the expedition to Saarthal. Timing is Everything delays the DLCs (Dragonborn and Dawnguard, specifically) and various other quests until you are strong enough to take them on. 
+
+Legacy of the Dragonborn of course requires no introduction, but if you're unaware, it adds a museum in Solitude that allows you to chronicle your adventures in Skyrim. It has a home for almost every unique item (and many non-unique items) as well as introducing its own questline, a new guild you can be the leader of, and its own player home. While Legacy of the Dragonborn is not a focus of Living Skyrim, every applicable patch has been included as well as [LOTD Relic Notifications](https://www.nexusmods.com/skyrimspecialedition/mods/34604) so you can easily identify items that go in the museum and can reasonably expect to have a home for any and all items you come across. If collecting and hoarding items is your thing, Legacy of the Dragonborn is for you.
 
 ### Master of Disguise
 [Master of Disguise](https://www.nexusmods.com/skyrimspecialedition/mods/9959) is a very simple mod: If you dress like a faction, you will be treated as that faction. So, if you dress as a necromancer, you will be attacked as if you are a necromancer by guards, soldiers, townsfolk, and so on. Be careful what you wear! This also allows you to infiltrate enemy factions if you dress carefully, but beware: they have a chance to see through your disguise and figure out you're an imposter.
@@ -230,8 +236,22 @@ Grace is focused entirely on making each character you make unique. You'll get d
 
 Inez changes how encounter zones in the game are calculated, increasing the variety of levels of enemies you'll find. Combined with the aforementioned Genesis and Encounter Zones Unlocked, no dungeon will ever play out the same. Mia is a very simple immersion mod that modifies the text you see when you go to interact with an object. Eve is an economy mod that, when combined with the other economy mods, makes Skyrim's economy incredibly diverse. It will be almost impossible to find the same item for the same price at two vendors.
 
+### The Economy & Loot Mods
+Speaking of economy, you should be aware that Living Skyrim uses a number of mods that affect the purchasing, selling, and finding of items. [Trade & Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081), [Supply & Demand](https://www.nexusmods.com/skyrimspecialedition/mods/32365), [I'm a Customer Dammit](https://www.nexusmods.com/skyrimspecialedition/mods/2982), and [Scarcity](https://www.nexusmods.com/skyrimspecialedition/mods/8647) are all included.
+
+Trade & Barter makes the act of buying and selling items depend on a number of factors including Speech skill, location, the type of merchant, your status as Thane or other faction memberships, relationship with the merchant, Race, and so on. It also affects how much gold merchants have, how long they take to restock, and takes into account perks you have. Supply & Demand makes the price of items increase or decrease depending on how in-demand an item is or how much supply there is of an item. I'm a Customer Dammit is mainly a quality of life and immersion mod that allows you to rent a bed by interacting with the bed or purchase a meal at an inn by interacting with a plate or other food item. 
+
+Scarcity makes the loot you find significantly rarer - it will be difficult to find enchanted items or high-level items in chests, on enemies, and with merchants. Don't be surprised to open a chest only to find it has a handful of coins inside. Enemies will, in almost all cases, only have the armor and weapons they're wearing plus perhaps a few coins and maybe one other item. You may also have to travel across various towns to find a merchant that has a particular item in stock. Genesis' loot module helps offset this slightly by adding potions and other items, but at the cost of having more enemies to fight. If a chest has extra enemies near it, it's likely you'll find better loot inside. [Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/12885) can also be utilized if you lack the required smithing/enchanting skill and are looking to purchase a specific item - but be prepared to pay a significant cost for it!
+
+In general, you can expect the economy of Living Skyrim to be a diverse and difficult-to-navigate machine. A simple Potion of Minor Healing might cost 100-250 gold, depending on many, many factors. A high-level piece of heavy armor might cost 20,000 or more gold. It is extremely unlikely you will ever run into the problem of having too much gold and not enough to spend it on.
+
 ### Vitality Mode
-[Vitality Mode](https://www.nexusmods.com/skyrimspecialedition/mods/16308) is the needs mod of choice for Living Skyrim. It covers all of the basics: hunger, thirst, and fatigue and also covers Werewolf and Vampire needs. It doesn't change how many of the food and drink items work in the game, and also allows you to buy or make water. This mod features an MCM that allows you to completely customize your needs experience or turn it off entirely if you wish.
+[Vitality Mode](https://www.nexusmods.com/skyrimspecialedition/mods/16308) is the needs mod of choice for Living Skyrim. It covers all of the basics: hunger, thirst, and fatigue and also covers Werewolf and Vampire needs. It doesn't change how the food and drink items work in the game, and also allows you to buy or make water. This mod features an MCM that allows you to completely customize your needs experience or turn it off entirely if you wish.
+
+### The Perks & Leveling Mods
+[Ordinator](https://www.nexusmods.com/skyrimspecialedition/mods/1137) is the perk overhaul of choice for Living Skyrim. It completely overhauls the perk trees allowing for an incredibly diverse amount of character customization and specialization. [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) is included to control the rate at which your skills and levels progress. By default, only clearing dungeons and completing quests will provide XP. The optional skills XP and kills XP modules can be turned on, but Living Skyrim isn't set up to use these by default so you may come across some oddities (enemies that don't grant XP when killed, for example). [Skyrim Skill Uncapper](https://www.nexusmods.com/skyrimspecialedition/mods/8889) is also included allowing you to continue leveling skills well beyond the vanilla maximum of 100.
+
+One mod that is particularly important to take note of is [Natural Character Growth and Decay (NCGD)](https://www.nexusmods.com/skyrimspecialedition/mods/26292). With this mod installed, by default, the level-up bonus where you select Magicka, Health, or Stamina *does not function*. The window for this choice still appears due to a game limitation, but it will do *nothing*. Instead, as you use your various abilities, they will naturally increase over time based on how much you use them. If you're a spellcaster, using a lot of magicka will make your maximum Magicka increase. This applies to Health, Stamina, and Carry Weight maximums as well. This mod does have an MCM that allows you to turn the level-up bonuses back on if you feel like cheating or if you want to adjust the rate at which your maximums increase (a lower number is a faster increase). The MCM configuration that is recommended for this mod makes it so you gain slightly more than vanilla per level towards your maximums.
 
 ### The HUD Mods
 Living Skyrim includes a completely different UI and HUD experience than what you're used to, probably even if you've played modded Skyrim before. [SkyHUD](https://www.nexusmods.com/skyrimspecialedition/mods/463) is 100% customizable and has a number of presets available you can choose from to relocate the health/stamina/magicka bars and also relocate any HUD element, such as the stealth indicator. [EZ2C Dialogue Menu](https://www.nexusmods.com/skyrimspecialedition/mods/2246) changes the dialogue menu to be easier to read and use and is also 100% configurable. See the mod description pages for EZ2C and SkyHUD to see how to configure these to your liking. [Immersive HUD](https://www.nexusmods.com/skyrimspecialedition/mods/12440) keeps pesky HUD elements out of the way when you don't need to see them. Lastly, [Favorite Things](https://www.nexusmods.com/skyrimspecialedition/mods/27177) greatly expands the SkyUI Favorites menu to make it larger, easier to use, and more customizable. 
