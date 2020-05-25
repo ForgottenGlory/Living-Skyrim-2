@@ -90,7 +90,7 @@ And before you ask: No, a less intense version of Living Skyrim is not planned.
 [Living Skyrim Patreon](https://www.patreon.com/LivingSkyrim)
 
 #### Screenshots
-Need screenshots of LS2 cuz it's different
+[One](https://cdn.discordapp.com/attachments/705097563967193193/713546874753384478/ScreenShot200.png) [Two](https://cdn.discordapp.com/attachments/705097563967193193/713103226479575060/ScreenShot266.png) [Three](https://cdn.discordapp.com/attachments/705097563967193193/712777430875635813/ScreenShot179.png) [Four](https://cdn.discordapp.com/attachments/705097563967193193/711664073887973386/ScreenShot160.png) [Five](https://cdn.discordapp.com/attachments/705097563967193193/710692201184755732/ScreenShot147.png) [Six](https://cdn.discordapp.com/attachments/705097563967193193/713102703848456282/ScreenShot252.png) [Seven](https://cdn.discordapp.com/attachments/705097563967193193/713102953921118248/ScreenShot258.png) [Eight](https://cdn.discordapp.com/attachments/705097563967193193/707274072081563682/ScreenShot94.png) [Nine](https://cdn.discordapp.com/attachments/705097563967193193/706920064351469608/ScreenShot93.png) [Ten](https://cdn.discordapp.com/attachments/705097563967193193/714329357744734259/ScreenShot203.png) [Eleven](https://cdn.discordapp.com/attachments/705097563967193193/713103627065098281/ScreenShot277.png)
 
 #### Videos
 [Leora Allavi (full roleplay playlist, v1.6.x)](https://www.youtube.com/watch?v=J2z0dHdK7GM&list=PL-faYc4gzQfCvfu0EBCDK_WmOrhGcVeYs) 
