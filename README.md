@@ -43,9 +43,10 @@ Current version: 5/23/2020 2.0.0 Alpha 7
   - [Adding to Living Skyrim](#adding-to-living-skyrim)
 - [Troubleshooting & FAQ](#troubleshooting--faq)
 - [Credits & Thanks](#credits--thanks)
+  - [One Last Thing](#one-last-thing)
 
 ## Preface
-The number one goal of Living Skyrim is to bring the world to life. This, in a nutshell, means that you will find an astounding number of new NPCs, quests, world spaces, dungeons, followers, and more. No stone has been left unturned and stepping into Living Skyrim means stepping into a world where every corner brings a new face to fight, befriend, or serve. This modlist takes a semi-lore friendly approach to adding things and uses a multitude of overhauls to breathe new life into the stagnant and unchanging systems of vanilla Skyrim. However, it is a primary tenet of Living Skyrim that the new systems added to the game don't add tedium or monotony to the game - some mods are specifically avoided such that the game isn't slowed down unnecessarily. The few inclusions that do slow things down are included for balance, pacing, or roleplay purposes.
+The number one goal of Living Skyrim is to bring the world to life. This, in a nutshell, means that you will find an astounding number of new NPCs, quests, world spaces, dungeons, followers, and more. No stone has been left unturned and stepping into Living Skyrim means stepping into a world where every corner brings a new face to fight, befriend, or serve. This modlist takes a semi-lore friendly approach to adding things and uses a multitude of overhauls to breathe new life into the stagnant and unchanging systems of vanilla Skyrim. However, it is a primary tenet of Living Skyrim that the new systems added to the game don't add tedium or monotony to the game - some mods and settings are specifically avoided such that the game isn't slowed down unnecessarily. The few inclusions that do slow things down are included for balance, pacing, or roleplay purposes.
 
 Speaking of roleplay, Living Skyrim is intended to provide replayability and roleplay potential. SkyRem, Ordinator, and other related mods allow for nearly infinite character customization to play the character you want, whether it be raving barbarian, paladin of Akatosh, archmage of Winterhold, or a hunter in the woods. The Take Notes mod allows you to chronicle your adventures and build a story that is uniquely yours. Sharing your stories with others is welcome and would be amazing to see.  
 
@@ -399,3 +400,6 @@ Yes. To submit a mod to be considered for inclusion in LS, you must attach a cop
   - EzioTheDeadPoet - For their SME(FT) modlist. The ability to start from scratch on a whim while building this list has been invaluable.
 - Mod Authors
   - None of this would be possible without the people who make the quality content we’ve grown to know and love. Please endorse the authors’ works.
+
+### One Last Thing
+If you read through the entire readme, congratulations! You get a cookie. **Do not direct message ForgottenGlory, any of the Living Skyrim dev team, or any Wabbajack staff members for support. Any questions or requests for support should be directed to the Wabbajack or Living Skyrim Discord servers. I (ForgottenGlory) speak for myself, but I do reserve the right to ignore any requests for support direct messaged to me and block you.**
