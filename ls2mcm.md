@@ -11,6 +11,7 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
 * Archery Gameplay Overhaul (AGO)
   - Settings
     - Persistent Arrows: Disabled
+    - Arm Fatigue: Disabled
 
 * All Geared Up Derivative
   - Misc - Player
@@ -26,7 +27,7 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
 * Deadly Dragons
   - Dragons
     - Difficulty: Expert
-
+  
 * Destructible Display Cases
   - Fire & Frost: Disabled
   - Arrows: Disabled
@@ -53,23 +54,10 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
     - Soljund’s Sinkhole: Enabled
     - Whistling Mine: Enabled
 
-* FEC
-  * Set all "Trigger Chances" to 80%
-
 * Follower Framework
   * System
     * Load from File: Click on "Click Here"
   * **Important!: DO NOT import Lucien or Inigo into NFF. It will completely break them. Sofia, Auri, and 3DNPCs will automatically import a short time after meeting them and asking them to follow you.**
-
-* GIST Soul Trap
-  * Main
-    * Show message on soul lost: Disabled
-    * Show message on soul shrunk: Disabled
-    * Show message on soul displaced: Disabled
-    * Show message on soul trapped: Enabled
-  * Leveling
-    * Enable Leveling System: Enabled
-    * Skill: Enchanting
 
 * Hunterborn  
 **Important!: Do not configure Hunterborn until after you have selected your Alternate Start and loaded into the game world.**
@@ -83,14 +71,6 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
     * Enable Tavern Brawl: Disabled
     * Enable Town Thief: Disabled
     * Dragon Attack in City: Disabled
-
-* Immersive HUD
-  * Activation
-    * Key press toggles: Enabled
-  * Options
-    * Hide Shout Meter With Compass: Enabled
-    * Enable Fast fade of Magicka: Enabled
-    * Enable Fast fade of Stamina: Enabled
 
 * Immersive Spell Learning
   - Use Fade-To-Black: Disabled
@@ -140,10 +120,6 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
     * Kynesgrove: Enabled
     * Expanded Towns and Cities SSE: Enabled
 
-* Sofia Follower
-  * Sofia Settings
-    * (Optional, Personal Preference) Comments Frequency: 6 Hours
-
 * Storm Lightning
   - Presets: Realistic
   - Settings 
@@ -152,12 +128,6 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
 * Take Notes
   - Controls 
     - Open Journal: Anything other than X
-
-* Timing is Everything
-  * Other Quests
-    * The Break of Dawn No Vampires: Enabled
-  * Extra Options
-    * Thalmor Squad Quest Requirement: Enabled
 
 * tK dodge
   - Dodge key: Whatever you want. I use Mouse 4.
