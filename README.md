@@ -23,6 +23,8 @@ Current version: 5/29/2020 2.0.0 Alpha 9
     - [Configuration-Specific](#configuration-specific)
   - [ENB](#enb)
 - [Updating Living Skyrim](#updating-living-skyrim)
+- [Launching Living Skyrim](#launching-living-skyrim)
+  - [The MCM Settings](#the-mcm-settings)
 - [Important Mods You Need to Know About](#important-mods-you-need-to-know-about)
   - [The Population Mods](#the-population-mods)
   - [The Quest Mods](#the-quest-mods)
@@ -35,8 +37,6 @@ Current version: 5/29/2020 2.0.0 Alpha 9
   - [The Perks & Leveling Mods](#the-perks--leveling-mods)
   - [The HUD Mods](#the-hud-mods)
   - [Nether's Follower Framework](#nethers-follower-framework)
-- [Launching Living Skyrim](#launching-living-skyrim)
-  - [The MCM Settings](#the-mcm-settings)
 - [Final Thoughts & Best Practices](#final-thoughts--best-practices)
   - [Getting Started in Living Skyrim](#getting-started-in-living-skyrim)
   - [NeverNude?](#nevernude)
@@ -168,17 +168,31 @@ If you are updating Living Skyrim, the process is very simple. Before you update
 5. Click Run.
 6. When prompted if you would like to overwrite the existing installation, click "Confirm."
 
+## Launching Living Skyrim
+The hard part is now over. Carry on, the end is in sight!
+
+1. In Mod Organizer 2, select SKSE from the drop-down menu next to the Run button and click Run. This is how Living Skyrim should always be launched. You can create a shortcut on your desktop if you wish using the Shortcut button under the Run button.
+2. Once Skyrim starts, create a new game. **Loading an old save at this point will corrupt that save, do not do this.** 
+3. Create your character and name them whatever you’d like.
+4. **As soon as you gain control of your character, do nothing.** The mods are loading and this can take several minutes. You’ll see a list of mods initializing in the top left of the screen.
+5. Once you see that no more items are appearing in the list in the top left, you can proceed to the next steps.
+
+### The MCM Settings
+1. If you want the true Living Skyrim experience, consult the [Living Skyrim MCM Configuration](ls2mcm.md) document and follow all listed steps. Note that some settings in this document are required for certain mods to work properly, namely Hunterborn, OBIS, Immersive HUD, XPMSE, Genesis, and GRACE.
+2. Otherwise, configure the MCMs how you want. Feel free to experiment and turn the difficulty up/down to your preference.
+3. Don’t forget to save your game after configuring the MCMs, I promise you don’t want to have to do this step more than once.
+
 ## Important Mods You Need to Know About
 This section details the most important mods included in Living Skyrim and is intended to give you a basic understanding of what to expect when you start the game.
 
 ### The Population Mods
-Living Skyrim includes a number of mods that increase the population of both creatures and characters in the world. The first and most important one is [Genesis](https://www.nexusmods.com/skyrimspecialedition/mods/5033), which replaced Populated Skyrim in Living Skyrim 2.0.0. This mod dynamically spawns more enemies in dungeons and optionally in overworld locations as well. It is customizable with a book that you'll pick up in the Alternate Start cell. Be warned: Setting the spawn number too high (above 50) will result in an absolutely absurd number of enemies being added to dungeons. Additionally, if the setting is too high you may experience enemies spawning directly on top of you or in areas you've already cleared out. Be careful when playing with the settings for this mod. A dungeon spawn number of 40 is recommended.
+Living Skyrim includes a number of mods that increase the population of both creatures and characters in the world. The first and most important one is [Genesis](https://www.nexusmods.com/skyrimspecialedition/mods/5033), which replaced Populated Skyrim in Living Skyrim 2.0.0. This mod dynamically spawns more enemies in dungeons and optionally in overworld locations as well. It is customizable with a book that you'll pick up in the Alternate Start cell. Be warned: Setting the spawn number too high (above 50) will result in an absolutely absurd number of enemies being added to dungeons. Additionally, if the setting is too high you may experience enemies spawning directly on top of you or in areas you've already cleared out. Be careful when playing with the settings for this mod. A dungeon spawn number of 40 is recommended. Genesis will also affect how quickly enemies respawn in dungeons you've cleared. Don't be surprised to return to a dungeon just a few days later to see it is chock full of enemies again.
 
 Next is [OBIS](https://www.nexusmods.com/skyrimspecialedition/mods/4145), which adds a ton of mid to high-level bandits to the world. In general this covers most of the overworld locations, which is why the surface spawns setting for Genesis is recommended to be turned off.
 
 [Organic Factions](https://www.nexusmods.com/skyrimspecialedition/mods/10289) adds groups of enemies that dynamically expand, recruit, and find new leaders. They will spread to conquer new territory and if left unchecked can take over entire holds. Keep an eye on the notifications for this mod, as it will keep you up to date on who is in control of what regions. You can also stumble across battles between factions if their territories overlap.
 
-Also for your consideration: [Immersive World Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/18330), [Immersive Patrols](https://www.nexusmods.com/skyrimspecialedition/mods/718), and [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194). For creatures, you'll find [SkyTEST](https://www.nexusmods.com/skyrimspecialedition/mods/1104), [Skyrim Immersive Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/12680), and [Animallica](https://www.nexusmods.com/skyrimspecialedition/mods/20456).
+Also for your consideration: [Immersive World Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/18330), [Immersive Patrols](https://www.nexusmods.com/skyrimspecialedition/mods/718), and [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194). For creatures, you'll find [SkyTEST](https://www.nexusmods.com/skyrimspecialedition/mods/1104) and [Animallica](https://www.nexusmods.com/skyrimspecialedition/mods/20456).
 
 What does this mean? Well, to put it simply, there are *a lot* of NPCs to find and interact with now. Silent Moons Camp for example now has somewhere in the range of 30 enemies to fight. It is impossible to go more than 5 minutes without coming across an NPC of some kind be it bandits, a patrol, or an animal. Getting a follower or two (or five) is highly encouraged. You will have to revisit some dungeons once you are stronger. The [Take Notes](https://www.nexusmods.com/skyrimspecialedition/mods/13570) mod is included to chronicle your adventure and also to help you remember what places you need to revisit.
 
@@ -227,7 +241,7 @@ The core combat package of Living Skyrim is [Ultimate Combat](https://www.nexusm
 
 [Archery Gameplay Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/24296) completely revamps the archery system in Skyrim. You'll find it now has much more realistic gameplay including arm fatigue, the ability to spread poisons across multiple arrows, stamina drain while the bowstring is pulled, and so on. This mod is highly configurable via its MCM menu, so feel free to tweak it to suit your playstyle.
 
-Also for your consideration: [SkyTEST](https://www.nexusmods.com/skyrimspecialedition/mods/1104), [Deadly Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/23723), [Skyrim Revamped](https://www.nexusmods.com/skyrimspecialedition/mods/14598), and [Encounter Zones Unlocked](https://www.nexusmods.com/skyrimspecialedition/mods/19608). Enemies in general will be smarter and stronger across the board, and will dynamically update their levels to match you as appropriate.
+Also for your consideration: [SkyTEST](https://www.nexusmods.com/skyrimspecialedition/mods/1104), [Deadly Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/23723), [Skyrim Revamped](https://www.nexusmods.com/skyrimspecialedition/mods/14598), [Encounter Zones Unlocked](https://www.nexusmods.com/skyrimspecialedition/mods/19608), and [Enemy Releveler](https://www.nexusmods.com/skyrimspecialedition/mods/32211). Enemies in general will be smarter and stronger across the board, and will dynamically update their levels to match or surpass you as appropriate.
 
 ### The SkyRem Suite
 Living Skyrim contains almost the entire lineup of SkyRem, with a couple of exceptions. The entirety of [SkyRem Grace](https://www.nexusmods.com/skyrimspecialedition/mods/26207) is included alongside SkyRem [Inez](https://www.nexusmods.com/skyrimspecialedition/mods/27103), [Eve](https://www.nexusmods.com/skyrimspecialedition/mods/26325), and [Mia](https://www.nexusmods.com/skyrimspecialedition/mods/26272).
@@ -258,20 +272,6 @@ Living Skyrim includes a completely different UI and HUD experience than what yo
 
 ### Nether's Follower Framework
 [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/18076) has too many features to list, but what you need to know is this: You can have multiple followers, you can configure just about anything about them, and you'll have a lot more flexibility with controlling your followers. You can also import followers added by mods to be able to use NFF's features on them. **Important!:** *Do NOT* import standalone followers (Inigo, Lucien, etc.) into Nether's Follower Framework. It will 100% break them. The notable exceptions to this are Auri, Sophia, and any of the Interesting NPCs followers.
-
-## Launching Living Skyrim
-The hard part is now over. Carry on, the end is in sight!
-
-1. In Mod Organizer 2, select SKSE from the drop-down menu next to the Run button and click Run. This is how Living Skyrim should always be launched. You can create a shortcut on your desktop if you wish using the Shortcut button under the Run button.
-2. Once Skyrim starts, create a new game. **Loading an old save at this point will corrupt that save, do not do this.** 
-3. Create your character and name them whatever you’d like.
-4. **As soon as you gain control of your character, do nothing.** The mods are loading and this can take several minutes. You’ll see a list of mods initializing in the top left of the screen.
-5. Once you see that no more items are appearing in the list in the top left, you can proceed to the next steps.
-
-### The MCM Settings
-1. If you want the true Living Skyrim experience, consult the [Living Skyrim MCM Configuration](ls2mcm.md) document and follow all listed steps. Note that some settings in this document are required for certain mods to work properly, namely Hunterborn, OBIS, Immersive HUD, XPMSE, Genesis, and GRACE.
-2. Otherwise, configure the MCMs how you want. Feel free to experiment and turn the difficulty up/down to your preference.
-3. Don’t forget to save your game after configuring the MCMs, I promise you don’t want to have to do this step more than once.
 
 ## Final Thoughts & Best Practices
 - If you are not familiar with the contents of this modlist, links are provided in the [LS2 Spreadsheet](https://docs.google.com/spreadsheets/d/1i31E32PtFQv_soryzrH8dOmk-Yk3n1GZIuQnuFsy2XY/edit?usp=sharing) to every mod so you can review their content/changes.
