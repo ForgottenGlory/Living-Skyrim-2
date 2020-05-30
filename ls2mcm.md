@@ -112,6 +112,9 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
   - Night Vision Color: 50%
   - Predator Vision Color Boost: 70%
 
+* P.U.B.S.
+  - Always pick up Books: Enabled
+
 * Quick Light
   * Brightness: Bright
 
@@ -125,6 +128,9 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
   - Settings 
     - Minimum Fork Distance: 1
 
+* Supply & Demand
+  - Hide Notifications: Enabled
+
 * Take Notes
   - Controls 
     - Open Journal: Anything other than X
@@ -134,6 +140,11 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
   - Double Tap Input: Disabled
   - Optional, Controller Only:
     - Input Method: Gamepad
+
+* Thieves Guild Req.
+  - Main Quest
+    - Pockets Picked: 10
+    - Items Stolen: 100
 
 * VioLens
   - Profile System
