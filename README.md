@@ -1,5 +1,5 @@
 # Living Skyrim
-Current version: 5/29/2020 2.0.0 Alpha 9
+Current version: 6/1/2020 2.0.0 Beta 1
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
