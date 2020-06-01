@@ -66,11 +66,11 @@ As of v2.0.0, the modlist requires ~261GB (84.4GB Downloads/176GB Mods) of hard 
 Support is **not** provided for adding to, removing from, or changing the list in *any way*.
 
 ### System Specifications
-Living Skyrim v2.0.0 is brutal on computers. Almost every texture is 4K and the ENB you choose can cause *drastic* impacts on your performance. The following is the computer Living Skyrim was compiled and tested on and it averaged 30-40FPS in exteriors with ENB enabled and 40-50FPS in interiors. Without ENB, it averaged 40-50FPS in exteriors and 50-60FPS in interiors.
+Living Skyrim v2.0.0 is brutal on computers. Almost every texture is 4K and the ENB you choose can cause *drastic* impacts on your performance. The following is the computer Living Skyrim was compiled and tested on and it averaged 50-60FPS in exteriors and 60FPS in interiors with ENB enabled. Without ENB, it averaged over 60FPS everywhere.
 
 - CPU: Intel i5-8600K Overclocked to 4.2GHz 
 - RAM: 16GB (16299MB actual)
-- GPU: nVidia GTX 1070 8GB (8192MB actual)
+- GPU: nVidia RTX 2080 Super 8GB (8192MB actual)
 - Monitor: Dell S2716DGR 2560x1440 @ 144hz
 
 Skyrim is very heavy on processors. Generally, anything above 3GHz should be fine but I can’t guarantee it. 
@@ -91,7 +91,7 @@ And before you ask: No, a less intense version of Living Skyrim is not planned.
 [One](https://cdn.discordapp.com/attachments/705097563967193193/713546874753384478/ScreenShot200.png) [Two](https://cdn.discordapp.com/attachments/705097563967193193/713103226479575060/ScreenShot266.png) [Three](https://cdn.discordapp.com/attachments/705097563967193193/712777430875635813/ScreenShot179.png) [Four](https://cdn.discordapp.com/attachments/705097563967193193/711664073887973386/ScreenShot160.png) [Five](https://cdn.discordapp.com/attachments/705097563967193193/710692201184755732/ScreenShot147.png) [Six](https://cdn.discordapp.com/attachments/705097563967193193/713102703848456282/ScreenShot252.png) [Seven](https://cdn.discordapp.com/attachments/705097563967193193/713102953921118248/ScreenShot258.png) [Eight](https://cdn.discordapp.com/attachments/705097563967193193/707274072081563682/ScreenShot94.png) [Nine](https://cdn.discordapp.com/attachments/705097563967193193/706920064351469608/ScreenShot93.png) [Ten](https://cdn.discordapp.com/attachments/705097563967193193/714329357744734259/ScreenShot203.png) [Eleven](https://cdn.discordapp.com/attachments/705097563967193193/713103627065098281/ScreenShot277.png)
 
 #### Videos
-[Leora Allavi (full roleplay playlist, v1.6.x)](https://www.youtube.com/watch?v=J2z0dHdK7GM&list=PL-faYc4gzQfCvfu0EBCDK_WmOrhGcVeYs) 
+[Living Skyrim 2 Beta Preview Part 1](https://www.twitch.tv/videos/637827406) [Living Skyrim 2 Beta Preview Part 2](https://www.twitch.tv/videos/637825590) 
 
 ## Pre-Installation
 ### Skyrim Setup
