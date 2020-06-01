@@ -160,12 +160,11 @@ In general, the process to install an ENB preset is:
 ## Updating Living Skyrim
 If you are updating Living Skyrim, the process is very simple. Before you update, you should at a minimum backup your saves. Updating will delete any saves that are present. Make sure you are using the latest version of Wabbajack or else Wabbajack will report a corrupted modlist.
 
-1. Run Wabbajack.exe. At the bottom of the window, click Browse Modlists. Select Living Skyrim from the UI and download it.
-2. Once downloaded, click the play/arrow button in the Living Skyrim panel to begin.
-3. Set the Installation Location to wherever you already have Living Skyrim installed. 
-4. **Important!:** Set your downloads folder path to the same downloads folder location you used when you first installed Living Skyrim. Failure to do this will make Wabbajack download every mod again, which you want to avoid if possible.
-5. Click Run.
-6. When prompted if you would like to overwrite the existing installation, click "Confirm."
+1. Run Wabbajack.exe. At the bottom of the window, click Install from Disk. Select the Living Skyrim installer you downloaded.
+2. Set the Installation Location to wherever you already have Living Skyrim installed. 
+3. **Important!:** Set your downloads folder path to the same downloads folder location you used when you first installed Living Skyrim. Failure to do this will make Wabbajack download every mod again, which you want to avoid if possible.
+4. Click Run.
+5. When prompted if you would like to overwrite the existing installation, click "Confirm."
 
 ## Launching Living Skyrim
 The hard part is now over. Carry on, the end is in sight!
