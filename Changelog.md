@@ -450,3 +450,15 @@
 ### 6/1/2020 2.0.0 Beta 1
 #### Major
 * **Everything changed.** 2.0.0 is a complete rebuild of the list from the ground up.
+
+### 6/2/2020 2.0.0 Beta 2
+#### Minor
+* **Fixes**
+  * Unmerged Relic Notifications so it actually works now.
+  * Fixed a crash caused by Floki Axe.
+  * Fixed QuickLoot + Hunterborn interactions.
+  * Fixed a crash related to Blooded Aim
+  * Fixed dragonbone weapons appearing at early levels.
+  * Fixed items floating under character from AllGUD.
+* **Mod Updates**
+  * Updated Audio Overhaul Skyrim and patches.
