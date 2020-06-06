@@ -92,7 +92,7 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
 
 * Master of Disguise
   - Advanced
-    - Factions Update Auto Run: Disabled
+    - Auto Update Factions: Disabled
 
 * NCGD
   * Health leveling rate: 500
