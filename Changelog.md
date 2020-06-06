@@ -462,3 +462,36 @@
   * Fixed items floating under character from AllGUD.
 * **Mod Updates**
   * Updated Audio Overhaul Skyrim and patches.
+
+### 6/6/2020
+#### Minor
+* **Fixes**
+  * Fixed landscape issues in Karthwasten, Ivarstead, Darkwater Crossing, and likely others as well.
+  * Fixed Derkeethus BFB
+  * Fixed Ulfric BFB
+  * Fixed Galmar BFB
+  * Fixed some bandits spawning naked.
+  * Tweaked the snow seam at Windhelm Bridge.
+  * Fixed Ainethatch BFB
+  * Fixed Ancano BFB
+  * Fixed Skullcrusher balance.
+  * Fixed a few other miscellaneous visible seams.
+  * Fixed missing textures at Sky Haven Temple.
+  * Possibly fixed being able to see into the void in Bleak Falls Barrow.
+  * Fixed an issue with Honed Metal not working.
+  * Fixed Blue Palace/Palace of the Kings Crashes.
+  * Fixed Serana BFB.
+  * Fixed Khajiit not properly having Rae changes.
+  * Fixed Elysium Estate floating trees.
+  * Fixed an issue with Axe of Injustice enchantment.
+  * Fixed Landscape issues with Hunting in Skyrim.
+* **Removals**
+  * Removed Predator Vision - Alternate Start Fix.
+* **Mod Updates**
+  * Updataded Pandorable's NPCs AI Overhaul patches.
+  * Updated AI Overhaul to 1.5.3
+  * Updated Reliquary of Myth to 2.9.15
+  * Updated Interesting NPCs to 4.3.14
+  * Updated Audio Overhaul Skyrim and patches.
+* **Other**
+  * Slightly tweaked MCMs.

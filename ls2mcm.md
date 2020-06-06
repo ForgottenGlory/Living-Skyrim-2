@@ -123,6 +123,10 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
     * Kynesgrove: Enabled
     * Expanded Towns and Cities SSE: Enabled
 
+* SkyUI
+  * General
+    * Font Size: Small
+
 * Storm Lightning
   - Presets: Realistic
   - Settings 
