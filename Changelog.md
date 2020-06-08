@@ -463,7 +463,7 @@
 * **Mod Updates**
   * Updated Audio Overhaul Skyrim and patches.
 
-### 6/6/2020
+### 6/6/2020 2.0.0 Beta 3
 #### Minor
 * **Fixes**
   * Fixed landscape issues in Karthwasten, Ivarstead, Darkwater Crossing, and likely others as well.
@@ -495,3 +495,31 @@
   * Updated Audio Overhaul Skyrim and patches.
 * **Other**
   * Slightly tweaked MCMs.
+
+### 6/8/2020 2.0.0 Beta 4
+#### Minor
+* **Fixes**
+  * Fixed Hjerim objects not being interactable during Blood on the Ice.
+  * Fixed King's Trees resizing/pop-in issue.
+  * Fixed terrain issue in Riverwood.
+  * Fixed Derkeethus for real this time.
+  * Fixed Captain Aldis BFB.
+  * Fixed a minor Navmesh issue in Riverwood.
+  * Fixed some Ordinator Perks being unobtainable.
+  * Fixed some helmets not rendering.
+  * Fixed Familiar scaling for Breton race.
+  * Fixed a crash with Rayek's End.
+  * Fixed a Tarhiel imitator near Lakeview Manor.
+  * Fixed shader FX for Stoneflesh and friends being incorrect.
+  * Fixed Mercer Frey BFB.
+  * Fixed a random chest in Riverwood.
+  * Fixed floating lanterns in Riverwood
+* **Additions**
+  * Added Archmage of Winterhold HD Retexture
+  * Added Falmer Armor Retexture
+  * Added Stormcloak Armor Revival.
+  * Added Project AHO and Carved Brink Unofficial Patches.
+* **Mod Updates**
+  * Updated DynDOLOD and friends.
+* **Other**
+  * Tweaked INIs to help with stuttering.
