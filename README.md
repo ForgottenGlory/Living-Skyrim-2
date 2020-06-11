@@ -83,7 +83,7 @@ And before you ask: No, a less intense version of Living Skyrim is not planned.
 [The Modlist Spreadsheet](https://docs.google.com/spreadsheets/d/1i31E32PtFQv_soryzrH8dOmk-Yk3n1GZIuQnuFsy2XY/edit?usp=sharing)  
 [Living Skyrim FAQ & Troubleshooting](#troubleshooting--faq)  
 [Living Skyrim Bug & Suggestions Tracker](https://github.com/ForgottenGlory/Living-Skyrim-2/issues)  
-[User Testimonials](https://drive.google.com/open?id=1eXeG852teL9EOnIHTAFTLW4Rq1c_pYGRYPtW_eNJqLg)  
+[User Testimonials](https://docs.google.com/document/d/1eXeG852teL9EOnIHTAFTLW4Rq1c_pYGRYPtW_eNJqLg/edit?usp=sharing)  
 [Living Skyrim Discord](https://discord.gg/9dFvGnc)  
 [Living Skyrim Patreon](https://www.patreon.com/LivingSkyrim)
 
