@@ -59,11 +59,6 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
     * Load from File: Click on "Click Here"
   * **Important!: DO NOT import Lucien or Inigo into NFF. It will completely break them. Sofia, Auri, and 3DNPCs will automatically import a short time after meeting them and asking them to follow you.**
 
-* Hunterborn  
-**Important!: Do not configure Hunterborn until after you have selected your Alternate Start and loaded into the game world.**
-  - Features
-    - Click Start Hunterborn, then exit the MCM.
-
 * Immersive Encounters
   * New Events Toggle
     * Custom Voice WE Events: Disabled
@@ -171,33 +166,40 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
     - Dagger Style Player ONLY: Dagger on Back Hip (both left and right)
     - Quiver Player ONLY: Frostfall Quiver
 
-Finally:
+Finally:  
 
-Take the Genesis Options book from the table next to the Statue of Mara. Configure Genesis as follows:
-  - Disable Spawn Near Player
-  - Set the Surface Locations Spawns to zero (0).
-  - Set the Dungeon Spawns to 40.
+Open your Magic menu and select "Reflect..." from the powers menu. Press your Shout key (usually Z) to activate it. Select whatever background/bonus you like or whatever fits with your character/build.
 
-Once you have configured Genesis you can discard of the book however you like, or keep it to change settings to your liking later.
-
-Open your Magic menu and select "Reflect..." from the powers menu.  Select whatever background/bonus you like.
-
-And last but not least, go back into the MCM for...  
+**Important!: The following mods can only be configured after you have selected your Alternate Start and loaded into the gameworld or have escaped the Abandoned Prison. Do not attempt to configure these until you have done so!**
 
 * iEquip
-* **Important!: iEquip CANNOT be configured until after you have selected your Alternate Start and loaded into the gameworld proper. It will not allow you to do so until after you've loaded into your starting area.**
-* General settings
-  * iEquip On: Enabled
-  * Now exit the menu and wait for the widget to appear.
-
-You can configure iEquip how you want, but I recommend the following.
-* Queue Options
-  * Item caching and blacklisting
-    * Blacklist Manually Removed Items: Enabled
+* You can configure iEquip how you want, but I recommend the following.
+  * General settings
+    * iEquip On: Enabled
+    * Now exit the menu and wait for the widget to appear.
+  * Queue Options
+    * Item caching and blacklisting
+      * Blacklist Manually Removed Items: Enabled
   * Misc UI Options
     * Enable Widget Fadeout: Enabled
-    * Fadeout Delay: 10
+    * Fadeout Delay: 5
     * Fadeout Speed: Fast
 
+* Genesis Unleashed
+  * Genesis Settings
+    * Mod is Active: Enabled
+    * Max Number of Dungeon Spawns: 20
+    * Max Number of Surface Spawns: 0
+    * Disable Surface Spawns: Enabled
+    * Randomize Number of Dungeon Spawns: Enabled
+    * Allow Spawning at Player: Disabled
+    * Spawn if Other Hostiles Near: Disabled
+    * Dispose of the book Genesis Options from your inventory however you choose, this mod's configuration is handled by MCM and the book does nothing. It's a holdover from the previous version of Genesis by the mod author and is redundant.
+
+* Hunterborn 
+  - Features
+    - Click Start Hunterborn, then exit the MCM and wait for the "Hunterborn started!" message to appear in the top left.
+  - Compatibility
+    - Compatibility with Hunting in Skyrim: Enabled
 
 **Save your game after completing MCM setup, I promise you do not want to have to do this process more than once.**

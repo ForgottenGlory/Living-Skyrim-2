@@ -1,5 +1,5 @@
 # Living Skyrim
-Current version: 6/8/2020 2.0.0 Beta 4
+Current version: 6/18/2020 2.0.0 Beta 6
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
@@ -59,7 +59,7 @@ Lastly, Living Skyrim exists solely as a Wabbajack installer. A manual installat
 ### Warnings/Disclaimers
 Wabbajack no longer requires that you have Nexus Premium to install the modlist, however, having Nexus Premium will cut your install time to a fraction of what it would be instead of downloading each mod individually (and save you a couple thousand clicks or so).  
 
-As of Beta 1, the modlist requires ~275GB (88GB Downloads/185GB Mods) of hard drive space on top of the ~11GB Skyrim: Special Edition base files. Installing onto an SSD/NVMe is not required, but **strongly recommended**. Download and installation times vary based on your computer and internet speeds but expect the entire process to take a few of hours.
+As of Beta 6, the modlist requires ~261GB (81GB Downloads/178GB Mods) of hard drive space on top of the ~11GB Skyrim: Special Edition base files. Installing onto an SSD/NVMe is not required, but **strongly recommended**. Download and installation times vary based on your computer and internet speeds but expect the entire process to take a few of hours.
 
 **NSFW Warning:** By default this modlist contains nude models for male and female NPCs. See the NeverNude section of this readme if you want to switch to NeverNude.
 
@@ -109,7 +109,7 @@ As with any modlist, it is strongly recommended that you start with a clean, unm
 Launch Skyrim SE to create any INI or registry entries the game needs. Immediately exit after the launcher has successfully selected a graphics preset for your hardware. The INIs will be overwritten by the ones included in the Wabbajack installer.
 
 ### Wabbajack Preparations
-1. Download the latest version of [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) and the latest [Living Skyrim Installer](https://drive.google.com/file/d/1uqYBzFLmwLNxGGWp0qcr8J5AUMUs9t73/view?usp=sharing). Do not run anything until instructed to do so. Make sure you are using the latest version of Wabbajack or else Wabbajack will report a corrupted modlist.
+1. Download the latest version of [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) and the latest [Living Skyrim Installer](https://drive.google.com/file/d/1RV7kBT58r_KSHnVHCMrnJFYS6vNmkUK-/view?usp=sharing). Do not run anything until instructed to do so. Make sure you are using the latest version of Wabbajack or else Wabbajack will report a corrupted modlist.
 2. Create a new folder in the root of the drive where you want Wabbajack to be installed. (C:\ will be used as an example, but it can be placed in any drive.) Name this folder “Wabbajack”. **Important!:** Wabbajack must be placed in a separate folder from where the installation will occur. 
 3. Create a second folder called C:\Living Skyrim. This folder is where the modlist will be installed.
 4. Double check that you have *not* placed any of these folders in your Skyrim: Special Edition installation directory.

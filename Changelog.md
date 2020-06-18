@@ -523,3 +523,48 @@
   * Updated DynDOLOD and friends.
 * **Other**
   * Tweaked INIs to help with stuttering.
+
+### 6/13/2020 2.0.0 Beta 5
+#### Minor
+* **Fixes**
+  * Fixed cluster of lanterns in Riverwood
+  * Fixed Summon Familiar not working with Sustained Magic.
+  * Fixed Hert & Hern BFB.
+  * Fixed a few Dawnguard BFBs.
+  * Fixed floating barrels in Riverwood.
+  * Fixed stone tablet placement near 7000 Steps.
+  * Possibly fixed Fireball/Firebolt not doing damage.
+  * Possibly fixed AGO + XP32 animations.
+* **Additions**
+  * Added AGO+XP32 Compatibility Patch.
+* **Mod Updates**
+  * Updated Reliquary of Myth
+  * Updated Embers HD
+  * Updated Smoking Torches & Candles
+  * Updated Vominheim
+
+### 6/18/2020 2.0.0 Beta 6
+#### Minor
+* **Fixes**
+  * Fixed Sword of the First Ember missing crafting/temper recipe.
+  * Fixed a floating lantern near Morthal.
+  * Fixed landscape for Camping in the Woods start.
+  * Fixed AGO + PCA Bow animations.
+  * Fixed Summon Familiar cost.
+  * Fixed getting attacked in Alternate Start cell.
+  * Fixed Fort Dawnguard doors being misplaced.
+  * Fixed a floating door near Breakwind Basin.
+  * Fixed Firebolt/Fireball not dealing damage.
+* **Replacements**
+  * Septentrional Landscapes 8K -> Septentrional Landscapes 4K
+  * Hyperborean Snow 8K -> Hyperborean Snow 4K
+  * Northern Shores 8K -> Northern Shores 4K
+  * Blended Roads/Bridges Redone 8K -> Blended Roads/Bridges Redone 4K
+  * MystiriousDawn's HD Skyrim Overhaul Maximum Quality ->  MystiriousDawn's HD Skyrim Overhaul Medium Quality
+  * Genesis -> Genesis Unleashed Levelled.
+* **Mod Updates**
+  * Updated Danika The Warrior Woman to v1.5
+* **Other**
+  * Tweaked INIs again for (hopefully) further stutter reduction.
+  * Tweaked MCM configuration document to reflect the Genesis change.
+  * Incorporated the first of several crafting/temper/breakdown recipe fixes.
