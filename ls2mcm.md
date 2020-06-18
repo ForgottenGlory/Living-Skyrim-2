@@ -59,6 +59,11 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
     * Load from File: Click on "Click Here"
   * **Important!: DO NOT import Lucien or Inigo into NFF. It will completely break them. Sofia, Auri, and 3DNPCs will automatically import a short time after meeting them and asking them to follow you.**
 
+* I'm A Customer
+  * Eating Locations: At Home Only
+  * Eating Method: With Fork Equipped (If you have trouble finding a fork, click Fork Me.)
+  * Infinite Food: At Home Only
+
 * Immersive Encounters
   * New Events Toggle
     * Custom Voice WE Events: Disabled
