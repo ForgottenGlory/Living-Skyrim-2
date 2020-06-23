@@ -11,6 +11,8 @@ assignees: ''
 
 If possible, please also attach a copy of your most recent save before the issue occurred.**
 
+Please check back on your bug request periodically. I will ask for more details sometimes and if they are not provided I will eventually close the bug report.
+
 **LS Version**
 Put the version of the list you are on here.
 
