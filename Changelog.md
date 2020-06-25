@@ -568,3 +568,31 @@
   * Tweaked INIs again for (hopefully) further stutter reduction.
   * Tweaked MCM configuration document to reflect the Genesis change.
   * Incorporated the first of several crafting/temper/breakdown recipe fixes.
+
+### 6/26/2020 2.0.0 Beta 7 RC1
+#### Minor
+* **Fixes**
+  * Fixed an issue with the Konahrik mask.
+  * Fixed Belethor neckseam.
+  * Fixed Ange the Song-Bearer CTD.
+  * Fixed missing texture in Embershard Mine.
+  * Fixed invisible werewolves during Companions questline.
+  * Fixed a typo in Grelod the Kind's journal.
+  * Fixed Staff of Magnus description.
+  * Fixed missing Sword of the First Ember crafting recipe.
+  * Fixed incorrectly placed ivy in Ivarstead.
+  * Fixed freestanding chimney in Rorikstead.
+  * Fixed Moonlit Waters not working correctly.
+  * Fixed Blood texture + ENB bug.
+  * Fixed Konahrik Mask issue.
+* **Additions**
+  * Added missing Widescreen Fix addons.
+  * Added Konahrik's Accoutrements + ICH patch.
+* **Removals**
+  * Removed QuickLoot RE. (I know, I'm sad too.)
+* **Mod Updates**
+  * Updated SSE Engine Fixes to v5.3.0
+  * Updated LOTD Relic Notifications to v3.0.2
+* **Other**
+  * Integrated more crafting/temper/breakdown recipe fixes.
+  * Updated the readme in a few places for more clarity and rephrasing.
