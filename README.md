@@ -119,9 +119,11 @@ Launch Skyrim SE to create any INI or registry entries the game needs. Immediate
 ## Wabbajack Installation
 If you are updating your existing installation of Living Skyrim, skip to [Updating Living Skyrim](#updating-living-skyrim).
 
-1. Run Wabbajack.exe. At the bottom of the window click Browse Modlists and click the download/down arrow icon on the Living Skyrim card. Once it finishes downloading, click the play/right arrow icon.
-2. Set the Installation Location to C:\Living Skyrim. The download location does not need to be set manually unless you have drive space limitations. Downloading to a separate folder is fine (for example, on a HDD), but as before it is recommended that the actual install be placed on a SSD. **Important!:** Do not install the modlist to your Skyrim SE installation folder OR the folder that Wabbajack.exe is in.
-3. Click Run.
+1. Run Wabbajack.exe. 
+2. At the bottom of the window click Browse Modlists and click the download/down arrow icon on the Living Skyrim card. 
+3. Once it finishes downloading, click the play/right arrow icon on the Living Skyrim card.
+4. Set the Installation Location to C:\Living Skyrim. The download location does not need to be set manually unless you have drive space limitations. Downloading to a separate folder is fine (for example, on a HDD), but as before it is recommended that the actual install be placed on a SSD. **Important!:** Do not install the modlist to your Skyrim SE installation folder OR the folder that Wabbajack.exe is in.
+5. Click the play/right arrow button to begin installation.
 
 ### With Nexus Premium
 5. Wabbajack will walk you through logging into the Nexus and authorizing an API key so it can download mods if you have not done so previously.
