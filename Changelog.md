@@ -596,3 +596,28 @@
 * **Other**
   * Integrated more crafting/temper/breakdown recipe fixes.
   * Updated the readme in a few places for more clarity and rephrasing.
+
+### 7/3/2020 2.0.0 Release
+#### Minor
+* **Fixes**
+  * Fixed a typo with door bar activations.
+  * Fixed some tree placements nead Guildmaster start.
+  * Fixed Amaund Motierre BFB.
+* **Replacements**
+  * A Quality World Map Classic - Main Roads -> A Quality World Map Vivid with Stone Roads.
+* **Additions**
+  * Added Rustic Clothing.
+  * Added LS2 CBBE BodySlide Files (Thanks JaceVenture!)
+* **Removals**
+  * Removed HookShare.
+  * Removed AddItemsMenuSE.
+* **Mod Updates**
+  * Updated NordwarUA's Vanilla Armor Replacer to v1.02.
+  * Updated Citizens of Tamriel to vFinal.
+  * Updated Reliquary of Myth to v3.1.7
+  * Updated Cuyima's Interesting NPCs to v1.1
+  * Updated Legacy of the Dragonborn to v5.2.0
+* **Other**
+  * Regenerated Enemies Releveled.
+  * Rebuilt BodySlides.
+  * Unmerged some ESPs. The new ESP/ESM count for LS2 is 254.

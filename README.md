@@ -1,5 +1,5 @@
 # Living Skyrim
-Current version: 6/25/2020 2.0.0 Beta 7 RC1
+Current version: 7/1/2020 2.0.0
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
@@ -59,7 +59,7 @@ Lastly, Living Skyrim exists solely as a Wabbajack installer. A manual installat
 ### Warnings/Disclaimers
 Wabbajack no longer requires that you have Nexus Premium to install the modlist, however, having Nexus Premium will cut your install time to a fraction of what it would be instead of downloading each mod individually (and save you a couple thousand clicks or so).  
 
-As of Beta 6, the modlist requires ~261GB (81GB Downloads/178GB Mods) of hard drive space on top of the ~11GB Skyrim: Special Edition base files. Installing onto an SSD/NVMe is not required, but **strongly recommended**. Download and installation times vary based on your computer and internet speeds but expect the entire process to take a few of hours.
+As of 2.0.0, the modlist requires ~260GB (81GB Downloads/178GB Mods) of hard drive space on top of the ~11GB Skyrim: Special Edition base files. Installing onto an SSD/NVMe is not required, but **strongly recommended**. Download and installation times vary based on your computer and internet speeds but expect the entire process to take a few of hours.
 
 **NSFW Warning:** By default this modlist contains nude models for male and female NPCs. See the NeverNude section of this readme if you want to switch to NeverNude.
 
@@ -69,7 +69,7 @@ Support is **not** provided for adding to, removing from, or changing the list i
 Living Skyrim v2.0.0 is brutal on computers. Almost every texture is 4K and the ENB you choose can cause *drastic* impacts on your performance. The following is the computer Living Skyrim was compiled and tested on and it averaged 50-60FPS in exteriors and 60FPS in interiors with ENB enabled. Without ENB, it averaged over 60FPS everywhere.
 
 - CPU: Intel i5-8600K Overclocked to 4.2GHz 
-- RAM: 16GB (16299MB actual)
+- RAM: 16GB DDR4 (16299MB actual)
 - GPU: nVidia RTX 2080 Super 8GB (8192MB actual)
 - Monitor: Dell S2716DGR 2560x1440 @ 144hz
 
@@ -367,6 +367,9 @@ This is intended. Natural Character Growth and Decay adjusts your stats as you u
 
 **Can I request a mod be added to Living Skyrim?**  
 Yes. To submit a mod to be considered for inclusion in LS, you must attach a copy of your save game where you have defeated Alduin using an unmodified LS installation. Any suggestions without this attached will be automatically rejected. This is not a guarantee that the mod will be included, only that it will be considered. Head to the Living Skyrim Github if you'd like to submit your mod request and save file.
+
+**Why was QuickLoot removed?**
+I had conflicting reports of QuickLoot causing crashes. If you'd like to add it back to the list, it's incredibly easy to do. Download, install, and enable these three mods in this exact order: [Hook Share SSE](https://www.nexusmods.com/skyrimspecialedition/mods/21373), [Quick Loot RE](https://www.nexusmods.com/skyrimspecialedition/mods/21085), and [Quick Loot RE & Hook Share SSE 1.5.97 Unofficial Update](https://www.nexusmods.com/skyrimspecialedition/mods/35951). Move them to the bottom of the "Essentials" section in the left pane of MO2. That's it, you're done. Please note that you install this mod at your own risk and no support is provided for lists with this change made and that by adding this mod back to the list you run the risk of introducing some instability (crashes while looting, mainly) when using it.
 
 ## Credits & Thanks
 - Living Skyrim created by ForgottenGlory
