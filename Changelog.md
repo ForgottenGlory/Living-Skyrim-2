@@ -598,7 +598,7 @@
   * Updated the readme in a few places for more clarity and rephrasing.
 
 ### 7/3/2020 2.0.0 Release
-#### Minor
+#### Major
 * **Fixes**
   * Fixed a typo with door bar activations.
   * Fixed some tree placements nead Guildmaster start.
@@ -621,3 +621,24 @@
   * Regenerated Enemies Releveled.
   * Rebuilt BodySlides.
   * Unmerged some ESPs. The new ESP/ESM count for LS2 is 254.
+
+### 7/6/2020 2.0.1
+#### Minor
+* **Fixes**
+  * Lots (like seriously, an absolute boatload) of back-end xEdit fixes, thanks Xanza!
+  * Fixed an issue with invisible weapons/armors
+  * Fixed the Dragon Priest masks having incorrect graphics.
+  * Fixed a clipping tree in Rorikstead.
+  * Fixed floating objects near LOTD museum.
+  * Fixed incorrect meshes/textures for a lot of weapons.
+  * Fixed a fence in Riverwood.
+* **Mod Updates**
+  * Updated BethINI to v3.5
+  * Updated Wrye Bash to Nightly 307.202004291147
+  * Updated DynDOLOD and DynDOLOD Resources.
+  * Updated Reliquary of Myth to v3.2.1.
+  * Updated LS2 patches.
+* **Other**
+  * ESL-ified Widescreen Fix so enabling it should no longer cause the list to go over the 255 plugin limit.
+  * Rebuilt and fixed Bashed Patch.
+  * Updated MCM document.

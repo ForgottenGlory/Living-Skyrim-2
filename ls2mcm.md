@@ -150,6 +150,9 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
     - Pockets Picked: 10
     - Items Stolen: 100
 
+* Ultimate Combat
+  * Timed Block: Disabled
+
 * VioLens
   - Profile System
     - Load: LS2 Violens Config
@@ -164,6 +167,7 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
   - Difficulty 
     - Disable Injuries: Enabled
     - Allow Wildcat to Manage Difficulty: Enabled
+    - Timed Block: Disabled
 
 * XPMSE
   - Styles
