@@ -151,7 +151,9 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
     - Items Stolen: 100
 
 * Ultimate Combat
-  * Timed Block: Disabled
+  * General
+    * Timed Block
+      * Effective Time: 0
 
 * VioLens
   - Profile System
