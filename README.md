@@ -315,7 +315,7 @@ The first thing you need to know is that adding to, removing from, or changing L
    - Using Bodyslide/Outfit Studio.
    - Using custom LOOT groups and metadata.
 
-If you are missing any of these skills, you need to be willing to put in the time to learn them to even consider adding to Living Skyrim. Again, no support is provided for this, so you are *completely on your own* when it comes to these. If you aren't willing to put in the time to learn how to add mods properly, you will *not, under any circumstances* be able to add to the list.
+If you are missing any of these skills, you need to be willing to put in the time to learn them to even consider adding to Living Skyrim. Again, no support is provided for this, so you are *completely on your own* when it comes to these. If you aren't willing to put in the time to learn how to add mods properly, you will *not, under any circumstances* be able to add to the list. Living Skyrim 2 is at the ESP/ESM plugin limit, adding even one mod improperly will result in the entire list breaking.
 
 ## Troubleshooting & FAQ
 Additions will be made to this FAQ as needed.
