@@ -642,3 +642,22 @@
   * ESL-ified Widescreen Fix so enabling it should no longer cause the list to go over the 255 plugin limit.
   * Rebuilt and fixed Bashed Patch.
   * Updated MCM document.
+
+### 7/13/2020 2.0.2
+#### Minor
+* **Fixes**
+  * Fixed a handful of BFBs.
+  * Testing a fix for the Hedge Mage Armor issue.
+  * Fixed a misplaced door at Fort Dawnguard.
+  * Fixed FEC not working properly.
+  * Fixed Mirai getting stuck during her date quest.
+  * Fixed floating helmets on Afflicted Refugee.
+  * Testing a fix for missing textures on certain shields.
+* **Mod Updates**
+  * Updated xLODGen to v64
+* **Removals**
+  * Removed Wabbajack MO2 Theme.
+* **Other**
+  * Regenerated AllGUD meshes.
+  * Went through every record in Enemies Releved to make sure it's not stupid. (It was. A lot.)
+  * Updated MCM document.

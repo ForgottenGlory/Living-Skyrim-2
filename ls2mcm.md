@@ -154,6 +154,16 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
   * General
     * Timed Block
       * Effective Time: 0
+    * Stagger
+      * Player Stagger: Disabled
+      * Enemy Poise: Disabled
+      * NPC's Bow Poise: 0
+      * Player's Bow Poise: 0
+    * Locational Damage
+      * Headshot Damage Mult: 0
+      * Headshot Message: Disabled
+      * Locational Damage Sound: Disabled
+      * Locational Damage Effect: Disabled
 
 * VioLens
   - Profile System
