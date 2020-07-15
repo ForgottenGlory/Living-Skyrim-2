@@ -152,7 +152,7 @@ If you are using a widescreen monitor, make sure to enable Complete Widescreen F
 ### ENB
 ENB is not required to run Living Skyrim, but it is intended to be used with it. You may skip these instructions if you don’t want to use ENB. Skipping ENB is *strongly recommended* for weaker computers. 
 
-If you have 6GB of VRAM, it is recommended that you use either the Rudy's ENB or Re-Engaged (Performance) ENB presets. If you have 8GB (or more) of VRAM, it is recommended that you use either the Pinnacle Reality or Silent Horizons ENB presets. However, you are welcome to use any preset you like as long as it is compatible with Obsidian Weathers.
+If you have 6GB of VRAM, it is recommended that you use either the Rudy's ENB or Re-Engaged (Performance) ENB presets. If you have 8GB (or more) of VRAM, it is recommended that you use either the Amon Reborn or Silent Horizons ENB presets. However, you are welcome to use any preset you like as long as it is compatible with Obsidian Weathers.
 
 In general, the process to install an ENB preset is:
 
