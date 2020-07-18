@@ -661,3 +661,21 @@
   * Regenerated AllGUD meshes.
   * Went through every record in Enemies Releved to make sure it's not stupid. (It was. A lot.)
   * Updated MCM document.
+
+### 7/18/2020 2.1.0
+#### Minor
+* **Fixes**
+  * Fixed some more BFBs.
+  * Fixed naked/unarmed NPCs.
+  * Fixed missing textures in Darkend.
+  * Fixed a rave in Elysium Estate's basement.
+* **Mod Updates**
+  * Updated Misc Retexture Project
+  * Updated DynDOLOD (the program) & DynDOLOD Resources
+  * Updated Landscape Fixes for Grass Mods
+* **Replacements**
+  * Pick Up Books Simple -> Sometimes Pick Up Books
+* **Other**
+  * Updated MCM document to fix getting stuck invisible in 3rd person.
+  * More backend fixes, should no longer encounter naked or unarmed NPCs.
+  * Regenerated DynDOLOD and friends.

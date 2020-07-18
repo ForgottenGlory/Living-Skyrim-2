@@ -159,11 +159,24 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
       * Enemy Poise: Disabled
       * NPC's Bow Poise: 0
       * Player's Bow Poise: 0
+    * Game Balance Settings
+      * Speed Bonus: Disabled
     * Locational Damage
       * Headshot Damage Mult: 0
       * Headshot Message: Disabled
       * Locational Damage Sound: Disabled
       * Locational Damage Effect: Disabled
+    * Others
+      * Swing Effect: Disabled
+  * NPC Setting
+    * NPC
+      * Dodge: Middle
+    * Giant
+      * Max HP Scale: MaxHP * 1.0
+    * Dwarven Centurion
+      * HP Mult: HP * 1.0
+    * Dragon Priest
+      * HP Mult: HP * 1.0
 
 * VioLens
   - Profile System
