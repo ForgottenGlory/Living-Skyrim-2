@@ -112,9 +112,6 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
   - Night Vision Color: 50%
   - Predator Vision Color Boost: 70%
 
-* P.U.B.S.
-  - Always pick up Books: Enabled
-
 * Quick Light
   * Brightness: Bright
 
