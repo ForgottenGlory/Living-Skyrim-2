@@ -1,5 +1,5 @@
 # Living Skyrim
-Current version: 7/6/2020 2.0.1   
+Current version: 7/25/2020 2.1.1  
 ![total-installs](https://img.shields.io/endpoint?label=Total%20Installs&style=for-the-badge&url=https://build.wabbajack.org/metrics/badge/living_skyrim/total_installs_badge.json)  
 ![build-status](https://img.shields.io/endpoint?label=List%20Status&style=for-the-badge&url=https://build.wabbajack.org/lists/status/living_skyrim/badge.json)
 

@@ -623,7 +623,7 @@
   * Unmerged some ESPs. The new ESP/ESM count for LS2 is 254.
 
 ### 7/6/2020 2.0.1
-#### Minor
+#### Incremental
 * **Fixes**
   * Lots (like seriously, an absolute boatload) of back-end xEdit fixes, thanks Xanza!
   * Fixed an issue with invisible weapons/armors
@@ -644,7 +644,7 @@
   * Updated MCM document.
 
 ### 7/13/2020 2.0.2
-#### Minor
+#### Incremental
 * **Fixes**
   * Fixed a handful of BFBs.
   * Testing a fix for the Hedge Mage Armor issue.
@@ -679,3 +679,12 @@
   * Updated MCM document to fix getting stuck invisible in 3rd person.
   * More backend fixes, should no longer encounter naked or unarmed NPCs.
   * Regenerated DynDOLOD and friends.
+
+### 7/25/2020 2.1.1
+#### Incremental
+* **Mod Updates**
+  * Updated Engine Fixes to v5.3.5.
+  * Updated Male NPC Overhaul & patches to v3.5.
+  * Updated Reliquary of Myth to v3.3.
+* **Replacements**
+  * LOTD Relic Notifications -> LOTD The Curator's Companion.
