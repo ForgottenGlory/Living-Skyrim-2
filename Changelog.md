@@ -689,7 +689,7 @@
 * **Replacements**
   * LOTD Relic Notifications -> LOTD The Curator's Companion.
 
-### 7/25/2020 2.2.0
+### 7/31/2020 2.2.0
 #### Minor
 * **Fixes**
   * Fixed spammable crafting recipes.
