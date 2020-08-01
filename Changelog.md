@@ -688,3 +688,35 @@
   * Updated Reliquary of Myth to v3.3.
 * **Replacements**
   * LOTD Relic Notifications -> LOTD The Curator's Companion.
+
+### 7/25/2020 2.2.0
+#### Minor
+* **Fixes**
+  * Fixed spammable crafting recipes.
+  * Fixed Hedge Mage Armor duplicate quest/objects.
+  * Fixed Mixwater Mill clipping issues.
+  * Fixed attack speed bug.
+  * Fixed some clipping trees.
+  * Fixed some shields missing textures.
+  * Fixed a crafting recipe for Silvershield of the Dragonblood.
+  * Fixed a floating door in Dayspring Canyon.
+  * Fixed a quest item (Expensive Amulet) being unreachable.
+* **Mod Updates**
+  * Updated MoreHUD and MoreHUD Inventory Edition to v3.8.0 and v1.0.17.
+  * Updated MO2 to v2.3.0
+  * Updated Serana Dialog Add-on to v1.5.0
+  * Updated Caranthir Armor to v1.1
+  * Updated Sovereign's Slayer Armor to v1.2
+  * Updated Vigilant Voiced to v2.5
+* **Additions**
+  * Added I'm Walkin' Here.
+  * Added aMidianBorn Ebony Armor (black) and Ebony Mail (gold).
+  * Added Weapon Speed Effects Fix.
+  * Added QuickLoot RE 2.6.0
+* **Removals**
+  * Removed Vikings Weaponry SE.
+* **Other**
+  * Tweaked INI settings a bit to further improve performance.
+  * Regenerated AllGUD Meshes.
+  * Updated MCM document to mitigate an item value issue.
+  * Revised Leveled Lists.

@@ -4,6 +4,9 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
 * Settings
     - Depth of Field: Minimum/Off
 
+* Ava
+  * When you see a popup asking if you'd like to select your attributes, click "Yes" if you want to assign them now or "No" if you want to have a power (shout) added to your character to set them up later. Don't forget to do this, as without assigning attributes your character will be severely weakened!
+
 * A Matter of Time
   * Presets
     * Click on "Load user settings" and confirm.
@@ -131,6 +134,7 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
 
 * Supply & Demand
   - Hide Notifications: Enabled
+  - Extinction Rate: 35%
 
 * Take Notes
   - Controls 
