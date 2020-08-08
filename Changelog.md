@@ -720,3 +720,26 @@
   * Regenerated AllGUD Meshes.
   * Updated MCM document to mitigate an item value issue.
   * Revised Leveled Lists.
+
+### 8/7/2020 2.2.1
+#### Minor
+* **Fixes**
+  * Fixed some BFBs.
+  * Fixed crafting books in inventory upon new game start.
+  * Fixed green ship bug.
+  * Fixed floating NPC in Half-Moon Mill.
+  * Fixed a tree in front of a Missive board.
+  * Kind-of fixed shields missing textures on back.
+  * Fixed a bunch of duplicate crafting recipes.
+  * Fixed a spammable smithing recipe.
+  * Fixed Curator's Companion icons not appearing properly.
+* **Mod Updates**
+  * Updated Mod Organizer to v2.3.1
+  * Updated The Falkreath Hauntings to v1.3
+  * Updated Nether's Follower Framework to v 2.6.8
+  * Updated Console Commands Extender to v1.8.0
+* **Additions**
+  * Added Joy of Ships - Green Ship Fix.
+  * Added CFTO + ClefJ's Half Moon Mill Patch.
+* **Removals**
+  * Removed Supply & Demand.

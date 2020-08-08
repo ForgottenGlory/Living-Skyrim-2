@@ -132,10 +132,6 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
   - Settings 
     - Minimum Fork Distance: 1
 
-* Supply & Demand
-  - Hide Notifications: Enabled
-  - Extinction Rate: 35%
-
 * Take Notes
   - Controls 
     - Open Journal: Anything other than X
