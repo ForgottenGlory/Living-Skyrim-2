@@ -742,4 +742,4 @@
   * Added Joy of Ships - Green Ship Fix.
   * Added CFTO + ClefJ's Half Moon Mill Patch.
 * **Removals**
-  * Removed Supply & Demand.
+  * Removed Supply & Demand. 
