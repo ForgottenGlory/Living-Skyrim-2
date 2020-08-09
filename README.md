@@ -375,9 +375,6 @@ This is intended. Natural Character Growth and Decay adjusts your stats as you u
 **Can I request a mod be added to Living Skyrim?**  
 Yes. To submit a mod to be considered for inclusion in LS, you must attach a copy of your save game where you have defeated Alduin using an unmodified LS installation. Any suggestions without this attached will be automatically rejected. This is not a guarantee that the mod will be included, only that it will be considered. Head to the Living Skyrim Github if you'd like to submit your mod request and save file.
 
-**Why was QuickLoot removed?**
-I had conflicting reports of QuickLoot causing crashes. If you'd like to add it back to the list, it's incredibly easy to do. Download, install, and enable these three mods in this exact order: [Hook Share SSE](https://www.nexusmods.com/skyrimspecialedition/mods/21373), [Quick Loot RE](https://www.nexusmods.com/skyrimspecialedition/mods/21085), and [Quick Loot RE & Hook Share SSE 1.5.97 Unofficial Update](https://www.nexusmods.com/skyrimspecialedition/mods/35951). Move them to the bottom of the "Essentials" section in the left pane of MO2. That's it, you're done. Please note that you install this mod at your own risk and no support is provided for lists with this change made and that by adding this mod back to the list you run the risk of introducing some instability (crashes while looting, mainly) when using it.
-
 ## Credits & Thanks
 - Living Skyrim created by ForgottenGlory
 - Living Skyrim 2 Dev Team:

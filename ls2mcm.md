@@ -5,7 +5,7 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
     - Depth of Field: Minimum/Off
 
 * Ava
-  * When you see a popup asking if you'd like to select your attributes, click "Yes" if you want to assign them now or "No" if you want to have a power (shout) added to your character to set them up later. Don't forget to do this, as without assigning attributes your character will be severely weakened!
+  * The first thing that will happen is you'll be prompted to select your attributes using SkyRem AVA. This allows you to design your character for a specific build right from the beginning of the game. Assign your points carefully, as this choice is permanent and cannot be changed after completion!
 
 * A Matter of Time
   * Presets
