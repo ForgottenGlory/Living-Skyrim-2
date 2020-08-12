@@ -74,6 +74,7 @@ Living Skyrim v2.0.0 is brutal on computers. Almost every texture is 4K and the 
 - RAM: 16GB DDR4 (16299MB actual)
 - GPU: nVidia RTX 2080 Super 8GB (8192MB actual)
 - Monitor: Dell S2716DGR 2560x1440 @ 144hz
+- Storage: Sabrent Rocket 2TB M.2 NVMe 2280
 
 Skyrim is very heavy on processors. Generally, anything above 3GHz should be fine but I can’t guarantee it. 
 
