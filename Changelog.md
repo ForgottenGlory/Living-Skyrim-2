@@ -743,3 +743,42 @@
   * Added CFTO + ClefJ's Half Moon Mill Patch.
 * **Removals**
   * Removed Supply & Demand. 
+
+### 9/5/2020 2.3.0
+* **Fixes**
+  * Fixed several BFBs.
+  * Fixed Clockwork LOTD display issue.
+  * Fixed unnecessary logging from CBP.
+  * Fixed a floating door at Fort Dawnguard.
+  * Fixed clipping objects in Ivarstead.
+  * Fixed missing textures on some rowboats near Morthal.
+  * Fixed an issue with bonemold helmets not showing heads.
+* **Mod Updates**
+  * Updated Cathedral Armory to v2.0.2
+  * Updated RaceMenu to v0.4.14
+  * Updated SKSE to v 2.00.19
+  * Updated CL's Rapier to v1.2
+  * Updated Bijin AIO SV AI Overhaul patch.
+  * Updated Misc Retexture Project to v2.5
+  * Updated LOTD Patches to v2.2
+  * Updated Rudy HQ Hay to v1.3
+  * Updated Rustic Clothing to v3.0
+  * Updated Rustic Furniture to v3.0
+  * Updated Whiterun Forest Borealis to v3.0.0
+  * Updated Apophysis - ICH Patch to v1.1
+  * Updated SSE Engine Fixes to v5.4.1
+  * Updated Goldenglow is Yours to v2.0.3
+  * Updated Serana Dialogue Add-On to v 1.7
+  * Updated SkyRem GRACE to v5.2.3
+  * Updated Vigilant Voiced to v3.0
+  * Updated AI Overhaul to v1.6.2
+* **Additions**
+  * Maps
+  * Dawnguard Map Markers
+  * JS Purses and Septims SE
+* **Removals**
+  * Removed Rustic Armor and Weapons (it was made redundant by the Cathedral Armory update)
+* **Other**
+  * Every graphical mod has been revisited. Performance should be significantly improved now. The requirements for the list are unchanged.
+  * Updated TexGen and DynDOLOD Output.
+  * Modified the load order 
