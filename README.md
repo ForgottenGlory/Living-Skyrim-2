@@ -373,7 +373,7 @@ Yes, this is a known issue and is somewhat intended. Legacy of the Dragonborn's 
 **My health/stamina/magicka don't increase when leveling up!**  
 This is intended. Natural Character Growth and Decay adjusts your stats as you use them. Using a lot of health/stamina? They'll automatically increase over time. The option to pick health/stamina/magicka will still appear due to game limitations, but it won't do anything. The same is true of carry weight: it will go up automatically over time if you're carrying a lot of items. If you want to cheat, you can turn the level-up bonuses to health/magicka/stamina back on in the NCGD MCM menu.  
 
-**Why is QuickLoot acting weirdly with Hunterborn (and related mods)?**
+**Why is QuickLoot acting weirdly with Hunterborn (and related mods)?**  
 The current version of QuickLoot has some weird effects when used in conjunction with mods that affect looting, primarily Hunterborn (but also a few others too). These issues are known to the author of QuickLoot and will be resolved at some point with an update to that mod. QuickLoot can be safely disabled in Mod Organizer 2 without any repurcussions if you find this behavior annoying/unsatisfying.
 
 **Can I request a mod be added to Living Skyrim?**  
