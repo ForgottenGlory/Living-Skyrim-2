@@ -782,3 +782,36 @@
   * Every graphical mod has been revisited. Performance should be significantly improved now. The requirements for the list are unchanged.
   * Updated TexGen and DynDOLOD Output.
   * Modified the load order 
+
+### 2.4.0 9/20/2020
+#### Minor
+* **Fixes**
+  * Fixed Ivarstead.
+  * Fixed lighting being incorrect.
+  * Fixed more BFBs.
+  * Fixed Thane rewards not being delivered properly.
+  * Fixed landscape issues with Hunting in Skyrim.
+  * Fixed a crash at Helarchen Creek.
+* **Mod Updates**
+  * Updated Great Town of Ivarstead to v1.1
+  * Updated The Curators Companion to v2.1.0
+  * Updated Legacy of the Dragonborn to v5.3.3
+  * Updated Serana Dialogue Add-on to v1.8.3
+  * Updated Auri - Inigo Banter Patch
+  * Updated Male NPC Overhaul to v4.0
+  * Updated AI Overhaul to v1.6.3
+  * Updated Growl to v2.0.0
+* **Additions**
+  * Added Great Town of Ivarstead Patch Collection.
+  * Added Depths of Skyrim.
+  * Added Talkative Dragons.
+  * Added White River Watch - Revisited.
+  * Added Northern Marsh Bridges.
+  * Added Helgen Reborn - NordWarUA Armor Replacer.
+  * Added NPC AI Process Position Fix.
+  * Added Toccata Follower SE.
+  * Updated Bijin AIO SV AI Overhaul.
+  * Updated DynDOLOD & DynDOLOD Resources.
+  * Updated Embers HD to v1.41
+* **Other**
+  * Regenerated DynDOLOD and friends.
