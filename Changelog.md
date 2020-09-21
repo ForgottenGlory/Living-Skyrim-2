@@ -801,6 +801,9 @@
   * Updated Male NPC Overhaul to v4.0
   * Updated AI Overhaul to v1.6.3
   * Updated Growl to v2.0.0
+  * Updated Bijin AIO SV AI Overhaul.
+  * Updated DynDOLOD & DynDOLOD Resources.
+  * Updated Embers HD to v1.41
 * **Additions**
   * Added Great Town of Ivarstead Patch Collection.
   * Added Depths of Skyrim.
@@ -810,8 +813,5 @@
   * Added Helgen Reborn - NordWarUA Armor Replacer.
   * Added NPC AI Process Position Fix.
   * Added Toccata Follower SE.
-  * Updated Bijin AIO SV AI Overhaul.
-  * Updated DynDOLOD & DynDOLOD Resources.
-  * Updated Embers HD to v1.41
 * **Other**
   * Regenerated DynDOLOD and friends.
