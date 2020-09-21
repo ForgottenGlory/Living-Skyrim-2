@@ -41,13 +41,6 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
     - Sanguine: Disabled
     - Vile: Disabled
 
-* Expanded Towns and Cities
-  * Settings
-    * Fortification Walls
-      * Dawnstar: Disabled
-    * Store Hours Signs
-      * Toggle Store Hours Signs: Enabled
-
 * Farmhouse Chimneys
   - Mod support 
     - Helarchen Creek: Enabled
