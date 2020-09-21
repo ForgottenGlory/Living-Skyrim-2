@@ -813,5 +813,7 @@
   * Added Helgen Reborn - NordWarUA Armor Replacer.
   * Added NPC AI Process Position Fix.
   * Added Toccata Follower SE.
+* **Removals**
+  * Removed ETaC.
 * **Other**
   * Regenerated DynDOLOD and friends.
