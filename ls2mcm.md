@@ -114,7 +114,6 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
 * Realistic Water Two
   * Mod Options
     * Kynesgrove: Enabled
-    * Expanded Towns and Cities SSE: Enabled
 
 * SkyUI
   * General
