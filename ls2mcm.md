@@ -86,10 +86,6 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
   * Craftloot
     * Craftloot Status: Prompt
 
-* Master of Disguise
-  - Advanced
-    - Auto Update Factions: Disabled
-
 * NCGD
   * Health leveling rate: 500
   * Stamina leveling rate: 500
@@ -170,12 +166,6 @@ To play Living Skyrim as intended, the MCM and Skyrim in-game settings should be
 * VioLens
   - Profile System
     - Load: LS2 Violens Config
-
-* Vitality Mode
-  * Growth Method: Game Time
-  * Hunger Increase Amount: 1.5
-  * Thirst Increase Amount: 1.2
-  * Fatigue Increase Amount: 0.7
 
 * Wildcat Combat 
   - Difficulty 

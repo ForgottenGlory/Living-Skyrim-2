@@ -817,3 +817,28 @@
   * Removed ETaC.
 * **Other**
   * Regenerated DynDOLOD and friends.
+
+### 2.5.0 10/6/2020
+#### Minor
+* **Fixes**
+  * Fixed Onmund BFB.
+  * Fixed NPCs randomly attacking for no reason.
+  * Fixed Frea crash.
+  * Fixed the Shadow Stone giving the Serpent buff.
+  * Fixed Hedge Mage Armor camp crash.
+* **Mod Updates**
+  * Updated NPC AI Process Position Fix.
+  * Updated The Curator's Companion to v3.0.0
+  * Updated Legacy of the Dragonborn to v5.4.1
+  * Updated Glory's Scaling Standing Stones to v1.1.0
+  * Updated Male NPC Overhaul to v4.01
+  * Updated AI Overhaul to v1.6.4
+  * Updated Ethereal Clouds to v2.0.0
+  * Updated Seranaholic to v1.8.3
+  * Updated Serana Dialogue Addon to v1.9.2
+* **Additions**
+  * Added 3D Snowberries
+  * Added Pandorable's Frea
+* **Removals**
+  * Removed Master of Disguise.
+  * Removed Vitality Mode.
