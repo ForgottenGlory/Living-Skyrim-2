@@ -30,12 +30,10 @@ Current version: 9/4/2020 2.3.0
 - [Important Mods You Need to Know About](#important-mods-you-need-to-know-about)
   - [The Population Mods](#the-population-mods)
   - [The Quest Mods](#the-quest-mods)
-  - [Master of Disguise](#master-of-disguise)
   - [The Magic Mods](#the-magic-mods)
   - [The Combat Mods](#the-combat-mods)
   - [The SkyRem Suite](#the-skyrem-suite)
   - [The Economy & Loot Mods](#the-economy--loot-mods)
-  - [Vitality Mode](#vitality-mode)
   - [The Perks & Leveling Mods](#the-perks--leveling-mods)
   - [The HUD Mods](#the-hud-mods)
   - [Nether's Follower Framework](#nethers-follower-framework)
@@ -230,9 +228,6 @@ It would take a tome to cover every single mod here, but there are a few to be a
 
 Legacy of the Dragonborn of course requires no introduction, but if you're somehow unaware, it adds a museum in Solitude that allows you to proudly display the various items you'll find in Skyrim. It has a home for almost every unique item (and many non-unique items) as well as introducing its own questline, a new guild you can be the leader of, and its own player home. While Legacy of the Dragonborn is not a focus of Living Skyrim, every applicable patch has been included as well as [LOTD Relic Notifications](https://www.nexusmods.com/skyrimspecialedition/mods/34604) so you can easily identify items that go in the museum and you can reasonably expect to have a home for any and all items you come across. If collecting and hoarding items is your thing, Legacy of the Dragonborn is for you.
 
-### Master of Disguise
-[Master of Disguise](https://www.nexusmods.com/skyrimspecialedition/mods/9959) is a very simple mod: If you dress like a faction, you will be treated as that faction. So, if you dress as a necromancer, you will be attacked as if you are a necromancer by guards, soldiers, townsfolk, and so on. Be careful what you wear! This also allows you to infiltrate enemy factions if you dress carefully, but beware: they have a chance to see through your disguise and figure out you're an imposter.
-
 ### The Magic Mods
 [Sustained Magic](https://www.nexusmods.com/skyrimspecialedition/mods/15871) is another simple mod, with much larger gameplay consequences. Certain spells, such as Oakflesh, now last forever instead of having to recast them every 60-90 seconds. This does come at the cost of reducing your maximum available Magicka, so be careful how many spells you have sustained or you'll very quickly find yourself with near zero Magicka to use for offensive spells. To dispel the effects of a Sustained Magic spell (and therefore recoup your Magicka), either cast the spell again or cast the "Dispel Magic, Personal" spell.
 
@@ -264,9 +259,6 @@ Trade & Barter makes the act of buying and selling items depend on a number of f
 Scarcity makes the loot you find significantly rarer - it will be difficult to find enchanted items or high-level items in chests, on enemies, and with merchants. Don't be surprised to open a chest only to find it has a handful of coins inside. Enemies will, in almost all cases, only have the armor and weapons they're wearing plus perhaps a few coins and maybe one other item. You may also have to travel across various towns to find a merchant that has a particular item in stock. Genesis' loot module helps offset this slightly by adding potions and other items, but at the cost of having more enemies to fight. If a chest has extra enemies near it, it's likely you'll find better loot inside. [Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/12885) can also be utilized if you lack the required smithing/enchanting skill and are looking to purchase a specific item - but be prepared to pay a significant cost for it!
 
 In general, you can expect the economy of Living Skyrim to be a diverse and difficult-to-navigate machine. A simple Potion of Minor Healing might cost 100-250 gold, depending on many, many factors. A high-level piece of heavy armor might cost 20,000 or more gold. It is extremely unlikely you will ever run into the problem of having too much gold and not enough to spend it on.
-
-### Vitality Mode
-[Vitality Mode](https://www.nexusmods.com/skyrimspecialedition/mods/16308) is the needs mod of choice for Living Skyrim. It covers all of the basics: hunger, thirst, and fatigue and also covers Werewolf and Vampire needs. It doesn't change how the food and drink items work in the game, and also allows you to buy or make water. This mod features an MCM that allows you to completely customize your needs experience or turn it off entirely if you wish. [Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/667) is also included to help you manage your fatigue on longer dungeon crawls or extended out-of-town adventures.
 
 ### The Perks & Leveling Mods
 [Ordinator](https://www.nexusmods.com/skyrimspecialedition/mods/1137) is the perk overhaul of choice for Living Skyrim. It completely overhauls the perk trees allowing for an incredibly diverse amount of character customization and specialization. [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) is included to control the rate at which your skills and levels progress. By default, only clearing dungeons and completing quests will provide XP. The optional skills XP and kills XP modules can be turned on, but Living Skyrim isn't set up to use these by default so you may come across some oddities (enemies that don't grant XP when killed, for example). [Skyrim Skill Uncapper](https://www.nexusmods.com/skyrimspecialedition/mods/8889) is also included allowing you to continue leveling skills well beyond the vanilla maximum of 100.
