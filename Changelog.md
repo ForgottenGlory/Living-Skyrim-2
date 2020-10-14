@@ -842,3 +842,12 @@
 * **Removals**
   * Removed Master of Disguise.
   * Removed Vitality Mode.
+
+### 2.5.1 10/14/2020
+#### Incremental
+* **Mod Updates**
+  * Updated NPC AI Process Position Fix to v2.0.3
+  * Updated Kynesgrove to v2.0.8
+  * Updated Helarchen Creek to v2.0.7
+  * Updated Window Shadows to v6.0b
+  * Updated Zephyr Retextured to v1.6

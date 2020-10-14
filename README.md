@@ -59,7 +59,7 @@ Lastly, Living Skyrim exists solely as a Wabbajack installer. A manual installat
 ### Warnings/Disclaimers
 Wabbajack no longer requires that you have Nexus Premium to install the modlist, however, having Nexus Premium will cut your install time to a fraction of what it would be instead of downloading each mod individually (and save you a couple thousand clicks or so).  
 
-As of 2.3.0, the modlist requires ~252GB (80GB Downloads/172GB Mods) of hard drive space on top of the ~11GB Skyrim: Special Edition base files. Installing onto an SSD/NVMe is not required, but **strongly recommended**. Download and installation times vary based on your computer and internet speeds but expect the entire process to take a few of hours.
+As of 2.5.0, the modlist requires ~252GB (80GB Downloads/172GB Mods) of hard drive space on top of the ~11GB Skyrim: Special Edition base files. Installing onto an SSD/NVMe is not required, but **strongly recommended**. Download and installation times vary based on your computer and internet speeds but expect the entire process to take a few of hours.
 
 **NSFW Warning:** By default this modlist contains nude models for male and female NPCs. See the [NeverNude](#nevernude) section of this readme if you want to switch to NeverNude.
 
@@ -86,13 +86,16 @@ And before you ask: No, a less intense version of Living Skyrim is not planned.
 [Living Skyrim Bug & Suggestions Tracker](https://github.com/ForgottenGlory/Living-Skyrim-2/issues)  
 [User Testimonials](https://docs.google.com/document/d/1eXeG852teL9EOnIHTAFTLW4Rq1c_pYGRYPtW_eNJqLg/edit?usp=sharing)  
 [Living Skyrim Discord](https://discord.gg/9dFvGnc)  
-[Living Skyrim Patreon](https://www.patreon.com/LivingSkyrim)
+[Living Skyrim Patreon](https://www.patreon.com/LivingSkyrim)  
+[Install Tutorial Video](https://youtu.be/sW7s5IhN7qs)  
 
 #### Screenshots
 [One](https://cdn.discordapp.com/attachments/691813472958152796/724269608416182352/The_Elder_Scrolls_V_Skyrim_Special_Edition_Screenshot_2020.06.18_-_12.44.38.45.jpg) [Two](https://cdn.discordapp.com/attachments/691813472958152796/723287303086276658/ScreenShot259.png) [Three](https://cdn.discordapp.com/attachments/691813472958152796/723287270781616128/ScreenShot255.png) [Four](https://cdn.discordapp.com/attachments/691813472958152796/723287238233817118/ScreenShot253.png) [Five](https://cdn.discordapp.com/attachments/691813472958152796/722329809081860186/The_Elder_Scrolls_V_Skyrim_Special_Edition_Screenshot_2020.06.15_-_18.01.28.90.jpg) [Six](https://cdn.discordapp.com/attachments/691813472958152796/718664781942489088/ScreenShot240.png) [Seven](https://cdn.discordapp.com/attachments/691813472958152796/717543717933678652/ScreenShot216.png) [Eight](https://cdn.discordapp.com/attachments/691813472958152796/709142514023661648/20200510101448_1.jpg) [Nine](https://cdn.discordapp.com/attachments/691813472958152796/723287308014583918/ScreenShot251.png) [Ten](https://cdn.discordapp.com/attachments/691813472958152796/723287302104940594/ScreenShot260.png)
 
 #### Videos
-[Living Skyrim 2 Beta Preview Part 1](https://www.twitch.tv/videos/637827406) [Living Skyrim 2 Beta Preview Part 2](https://www.twitch.tv/videos/637825590) 
+[Living Skyrim 2 Beta Preview Part 1](https://www.twitch.tv/videos/637827406)  
+[Living Skyrim 2 Beta Preview Part 2](https://www.twitch.tv/videos/637825590)  
+[Install Tutorial Video](https://youtu.be/sW7s5IhN7qs)  
 
 ## Pre-Installation
 ### Skyrim Setup
@@ -110,6 +113,8 @@ As with any modlist, it is strongly recommended that you start with a clean, unm
 Launch Skyrim SE to create any INI or registry entries the game needs. Immediately exit after the launcher has successfully selected a graphics preset for your hardware. The INIs will be overwritten by the ones included in the Wabbajack installer.
 
 ### Wabbajack Preparations
+A video version of the installation instructions from this point forward exists here: [Click Me!](https://youtu.be/sW7s5IhN7qs)  
+
 1. Download the latest version of [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases). Do not run anything until instructed to do so. Make sure you are using the latest version of Wabbajack or else Wabbajack will report a corrupted modlist.
 2. Create a new folder in the root of the drive where you want Wabbajack to be installed. (C:\ will be used as an example, but it can be placed in any drive.) Name this folder “Wabbajack”. **Important!:** Wabbajack must be placed in a separate folder from where the installation will occur. 
 3. Create a second folder called C:\Living Skyrim. This folder is where the modlist will be installed.
