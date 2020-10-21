@@ -3,9 +3,21 @@ Current version: 10/6/2020 2.5.0
 ![total-installs](https://img.shields.io/endpoint?label=Total%20Installs&style=for-the-badge&url=https://build.wabbajack.org/metrics/badge/living_skyrim/total_installs_badge.json)  
 ![build-status](https://img.shields.io/endpoint?label=List%20Status&style=for-the-badge&url=https://build.wabbajack.org/lists/status/living_skyrim/badge.json)
 
+## Preface
+The number one goal of Living Skyrim is to bring the world to life. This, in a nutshell, means that you will find an astounding number of new NPCs, quests, world spaces, dungeons, followers, and more. No stone has been left unturned and stepping into Living Skyrim means stepping into a world where every corner brings a new face to fight, befriend, or serve. This modlist takes a semi-lore friendly approach to adding things and uses a multitude of overhauls to breathe new life into the stagnant and unchanging systems of vanilla Skyrim. However, it is a primary tenet of Living Skyrim that the new systems added to the game don't add tedium or monotony to the game - some mods and settings are specifically avoided such that the game isn't slowed down unnecessarily. The few inclusions that do slow things down are included for balance, pacing, or roleplay purposes.
+
+Speaking of roleplay, Living Skyrim is intended to provide replayability and roleplay potential. SkyRem, Ordinator, and other related mods allow for nearly infinite character customization to play the character you want, whether it be raving barbarian, paladin of Akatosh, archmage of Winterhold, or a hunter in the woods. The Take Notes mod allows you to chronicle your adventures and build a story that is uniquely yours. Sharing your stories with others is welcome and would be amazing to see.  
+
+All of this is on top of a high-quality graphics package intended for higher-end PCs. 4K textures and 2K normals have been given preference except in situations where there is little to no noticeable difference or a 4K option isn’t available. The ENB, weather, flora, and fauna effects have been hand-chosen to provide a consistent and absolutely gorgeous game look. See the System Specifications section to see if your computer can handle this list - weak computers will not be able to run Living Skyrim at acceptable framerates.
+
+As for stability and conflict resolution, Living Skyrim has been entirely Method Patched to ensure consistency and compatibility across the board. In the case where patches didn't already exist or were inadequate, they have been created. This includes changes that required the use of Creation Kit to ensure that the world is working smoothly. It also includes DynDOLOD, TexGen, and SSELODGEN data pre-packaged for ease of install.  
+
+Lastly, Living Skyrim exists solely as a Wabbajack installer. A manual installation guide does not exist and likely won't ever.
+
 ## Table of Contents
-- [Table of Contents](#table-of-contents)
 - [Preface](#preface)
+- [Table of Contents](#table-of-contents)
+- [Before You Get Started](#before-you-get-started)
   - [Warnings/Disclaimers](#warningsdisclaimers)
   - [System Specifications](#system-specifications)
   - [Important Links](#important-links)
@@ -27,6 +39,7 @@ Current version: 10/6/2020 2.5.0
 - [Updating Living Skyrim](#updating-living-skyrim)
 - [Launching Living Skyrim](#launching-living-skyrim)
   - [The MCM Settings](#the-mcm-settings)
+  - [Getting Started in Living Skyrim](#getting-started-in-living-skyrim)
 - [Important Mods You Need to Know About](#important-mods-you-need-to-know-about)
   - [The Population Mods](#the-population-mods)
   - [The Quest Mods](#the-quest-mods)
@@ -37,27 +50,55 @@ Current version: 10/6/2020 2.5.0
   - [The Perks & Leveling Mods](#the-perks--leveling-mods)
   - [The HUD Mods](#the-hud-mods)
   - [Nether's Follower Framework](#nethers-follower-framework)
+- [Common Issues](#common-issues)
+  - [Wabbajack Issues](#wabbajack-issues)
+    - ["A mod failed to download."](#a-mod-failed-to-download)
+    - ["Wabbajack says I'm out of requests."](#wabbajack-says-im-out-of-requests)
+    - ["Rayek's End is reporting something weird during installation."](#rayeks-end-is-reporting-something-weird-during-installation)
+    - ["Can I pause the installation?"](#can-i-pause-the-installation)
+    - ["Can I delete the downloads folder after installing?"](#can-i-delete-the-downloads-folder-after-installing)
+    - ["The LS2 DynDOLOD Output fails to download."](#the-ls2-dyndolod-output-fails-to-download)
+  - [Gameplay Issues](#gameplay-issues)
+    - ["The Main Quest doesn't proceed after retrieving the Dragonstone."](#the-main-quest-doesnt-proceed-after-retrieving-the-dragonstone)
+    - ["Tolfdir doesn't invite me to Saarthal right away."](#tolfdir-doesnt-invite-me-to-saarthal-right-away)
+    - ["Can I access RaceMenu after character creation?"](#can-i-access-racemenu-after-character-creation)
+    - ["Can I change my attributes after starting?"](#can-i-change-my-attributes-after-starting)
+    - ["When I click to select a bonus after leveling up my stats don't change."](#when-i-click-to-select-a-bonus-after-leveling-up-my-stats-dont-change)
+    - ["My screen is zoomed in or weirdly off-center."](#my-screen-is-zoomed-in-or-weirdly-off-center)
+    - ["Dead NPCs turn purple?"](#dead-npcs-turn-purple)
+    - ["Is Hunterborn broken?" or "QuickLoot breaks Hunterborn?"](#is-hunterborn-broken-or-quickloot-breaks-hunterborn)
+    - ["MO2 cannot find SKSE."](#mo2-cannot-find-skse)
+    - ["Can I use a controller?"](#can-i-use-a-controller)
+    - ["My game freezes when saving."](#my-game-freezes-when-saving)
+    - ["Can I play this list on a 75/100/144hz screen?"](#can-i-play-this-list-on-a-75100144hz-screen)
+    - ["My equipment animations are broken/weird!"](#my-equipment-animations-are-brokenweird)
+    - ["Can I use this list on an ultrawide monitor?"](#can-i-use-this-list-on-an-ultrawide-monitor)
+    - ["Immersive Spell Learning still allows me to read the spell tome to learn spells instantly."](#immersive-spell-learning-still-allows-me-to-read-the-spell-tome-to-learn-spells-instantly)
+    - ["What the heck is going on with the dialogue menu?"](#what-the-heck-is-going-on-with-the-dialogue-menu)
 - [Final Thoughts & Best Practices](#final-thoughts--best-practices)
-  - [Getting Started in Living Skyrim](#getting-started-in-living-skyrim)
   - [NeverNude?](#nevernude)
   - [Adding to Living Skyrim](#adding-to-living-skyrim)
-- [Troubleshooting & FAQ](#troubleshooting--faq)
+- [Other Common Questions](#other-common-questions)
+  - [What do/don’t you support?](#what-dodont-you-support)
+  - [The installer isn’t working, what can I do?](#the-installer-isnt-working-what-can-i-do)
+  - [How often does Living Skyrim update?](#how-often-does-living-skyrim-update)
+  - [I found a bug! How do I report it?](#i-found-a-bug-how-do-i-report-it)
+  - [Is [mod name] included in this list?](#is-mod-name-included-in-this-list)
+  - [The modlist updated! Do I have to update and start a new save?](#the-modlist-updated-do-i-have-to-update-and-start-a-new-save)
+  - [Can my computer run this list? [insert specs]](#can-my-computer-run-this-list-insert-specs)
+  - [Some Alternate Starts are impossible/OP!](#some-alternate-starts-are-impossibleop)
+  - [Can I stream/Let’s Play this modlist?](#can-i-streamlets-play-this-modlist)
+  - [Can I request a mod be added to Living Skyrim?](#can-i-request-a-mod-be-added-to-living-skyrim)
 - [Credits & Thanks](#credits--thanks)
   - [One Last Thing](#one-last-thing)
 
-## Preface
-The number one goal of Living Skyrim is to bring the world to life. This, in a nutshell, means that you will find an astounding number of new NPCs, quests, world spaces, dungeons, followers, and more. No stone has been left unturned and stepping into Living Skyrim means stepping into a world where every corner brings a new face to fight, befriend, or serve. This modlist takes a semi-lore friendly approach to adding things and uses a multitude of overhauls to breathe new life into the stagnant and unchanging systems of vanilla Skyrim. However, it is a primary tenet of Living Skyrim that the new systems added to the game don't add tedium or monotony to the game - some mods and settings are specifically avoided such that the game isn't slowed down unnecessarily. The few inclusions that do slow things down are included for balance, pacing, or roleplay purposes.
+## Before You Get Started
+Before installing Living Skyrim, here's some information you need to know.
 
-Speaking of roleplay, Living Skyrim is intended to provide replayability and roleplay potential. SkyRem, Ordinator, and other related mods allow for nearly infinite character customization to play the character you want, whether it be raving barbarian, paladin of Akatosh, archmage of Winterhold, or a hunter in the woods. The Take Notes mod allows you to chronicle your adventures and build a story that is uniquely yours. Sharing your stories with others is welcome and would be amazing to see.  
-
-All of this is on top of a high-quality graphics package intended for higher-end PCs. 4K textures and 2K normals have been given preference except in situations where there is little to no noticeable difference or a 4K option isn’t available. The ENB, weather, flora, and fauna effects have been hand-chosen to provide a consistent and absolutely gorgeous game look. See the System Specifications section to see if your computer can handle this list - weak computers will not be able to run Living Skyrim at acceptable framerates.
-
-As for stability and conflict resolution, Living Skyrim has been entirely Method Patched to ensure consistency and compatibility across the board. In the case where patches didn't already exist or were inadequate, they have been created. This includes changes that required the use of Creation Kit to ensure that the world is working smoothly. It also includes DynDOLOD, TexGen, and SSELODGEN data pre-packaged for ease of install.  
-
-Lastly, Living Skyrim exists solely as a Wabbajack installer. A manual installation guide does not exist and likely won't ever.
+First, if you have any trouble during installation, refer to the [Common Issues](#common-issues) section of this readme.
 
 ### Warnings/Disclaimers
-Wabbajack no longer requires that you have Nexus Premium to install the modlist, however, having Nexus Premium will cut your install time to a fraction of what it would be instead of downloading each mod individually (and save you a couple thousand clicks or so).  
+Wabbajack does not require that you have Nexus Premium to install the modlist, however, having Nexus Premium will cut your install time to a fraction of what it would be instead of downloading each mod individually (and save you a couple thousand clicks or so).  
 
 As of 2.5.0, the modlist requires ~252GB (80GB Downloads/172GB Mods) of hard drive space on top of the ~11GB Skyrim: Special Edition base files. Installing onto an SSD/NVMe is not required, but **strongly recommended**. Download and installation times vary based on your computer and internet speeds but expect the entire process to take a few of hours.
 
@@ -106,6 +147,8 @@ As with any modlist, it is strongly recommended that you start with a clean, unm
 3. Install Skyrim: Special Edition.
 
 ### Steam Setup
+**Before proceeding, make sure that your Steam Library is not located within Windows' Program Files folder. Instructions on how to move your Steam Library to a different folder can be found on the internet elsewhere.**
+
 1. In Steam, set Skyrim: Special Edition to update only when opened. (Right-click > Properties… > Updates > Automatic updates > Only update this game when I launch it)
 2. In Steam, disable the Steam Overlay. (Right-click > Properties... > General > Enable the Steam Overlay while in-game checkbox)
    
@@ -132,11 +175,11 @@ If you are updating your existing installation of Living Skyrim, skip to [Updati
 5. Click the play/right arrow button to begin installation.
 
 ### With Nexus Premium
-5. Wabbajack will walk you through logging into the Nexus and authorizing an API key so it can download mods if you have not done so previously.
-6. Let Wabbajack do its thing. This will take a little while (usually 3-4 hours at most), so go get a snack and read the [Important Mods You Need to Know About](#important-mods-you-need-to-know-about) section of this document and possibly check out the [Modlist Spreadsheet](https://docs.google.com/spreadsheets/d/1i31E32PtFQv_soryzrH8dOmk-Yk3n1GZIuQnuFsy2XY/edit?usp=sharing).
+6. Wabbajack will walk you through logging into the Nexus and authorizing an API key so it can download mods if you have not done so previously.
+7. Let Wabbajack do its thing. This will take a little while (usually 3-4 hours at most), so go get a snack and read the [Important Mods You Need to Know About](#important-mods-you-need-to-know-about) section of this document and possibly check out the [Modlist Spreadsheet](https://docs.google.com/spreadsheets/d/1i31E32PtFQv_soryzrH8dOmk-Yk3n1GZIuQnuFsy2XY/edit?usp=sharing).
 
 ### Without Nexus Premium
-1. Wabbajack will prompt you to click all the needed buttons to download the modlist. Be prepared for this to take a really long time: current reports indicate installing the list manually takes approximately 20-24 hours. Also be aware that due to the amount of time required when installing this list manually, the list may update during the time it takes to install and you may need to start over if that happens. Put on some music or a TV show and make a day of it.
+6. Wabbajack will prompt you to click all the needed buttons to download the modlist. Be prepared for this to take a really long time: current reports indicate installing the list manually takes approximately 20-24 hours. Also be aware that due to the amount of time required when installing this list manually, the list may update during the time it takes to install and you may need to start over if that happens. Put on some music or a TV show and make a day of it.
 
 Once complete, Wabbajack will say “Installation complete! You may exit the program.” If it does not, visit the [Wabbajack Discord server](https://discord.gg/wabbajack) for assistance. **Don’t forget to upload your log file!**  
 
@@ -190,6 +233,19 @@ The hard part is now over. Carry on, the end is in sight!
 1. If you want the true Living Skyrim experience, consult the [Living Skyrim MCM Configuration](ls2mcm.md) document and follow all listed steps. Note that some settings in this document are required for certain mods to work properly, namely Hunterborn, OBIS, Immersive HUD, XPMSE, Genesis, and GRACE.
 2. Otherwise, configure the MCMs how you want. Feel free to experiment and turn the difficulty up/down to your preference.
 3. Don’t forget to save your game after configuring the MCMs, I promise you don’t want to have to do this step more than once.
+
+### Getting Started in Living Skyrim
+If you're coming from a previous version of Living Skyrim (1.x.x), throw out everything you thought you knew. If you're new to Living Skyrim, welcome! It's gonna be a bumpy ride - at first.
+
+- Bandits are your best bet for early levels. They usually come in small enough groups to be manageable and are almost always around your level or slightly higher.
+- Undead are going to be nearly impossible until you hit level 10-15. This includes skeletons, draugr, vampires, etc. Dwemer and Falmer are out of the question until higher levels as well. Dragons start at level 20 and only go up.
+- Most questlines should be doable from the very beginning, but keep in mind the previous two points. Bleak Falls Barrow will present a significant challenge to low-level characters and the first dragon fight will require around level 20.
+- The Whiterun/Riverwood area is best for starting out - northern areas will be significantly more difficult.
+- Overworld enemies are going to be easier and in smaller groups than dungeons, but avoid the larger overworld locations when starting out: Silent Moons Camp, Fort Greymoor, etc. Delving into caves and dungeons is a good way to get surrounded by a group of 6-10 enemies.
+- Followers are your friends! There's an absolute boatload of followers for you to find and pickup - whether it's Sofia, Inigo, Garm, Mirai, Hoth, or any of the 3DNPCs, there's bound to be at least one person in every city that you can ask to help you out. Nether's Follower Framework also lets you recruit many of the generic mercenaries you see wandering around if you just want a temporary companion. It's extremely easy to assemble a diverse adventuring party if you so choose. If you prefer the lone wanderer style, be prepared for things to be more difficult - having at least one follower is highly recommended.
+- Specialize your character. The combination of class and customization mods lets you focus your character in a way that vanilla Skyrim never did. It's extremely likely you'll start with one, maybe two skills that are any good and the rest will be total garbage. Focus on what your character is good at and it will pay dividends. When selecting how to allocate your attribute points, think about the rest of your build and put points into attributes that compliment how you want to play. Many attributes provide direct bonuses to how much damage you deal with specific types of weapons, how much health/stamina/magicka you start with, and so on. Specialized characters are much better suited to the challenges of Living Skyrim than jack-of-all-trades types. This also encourages you to pick up a follower that compliments your skills. Playing a tanky two-handed character? Find a follower that can cast healing spells on you and do magic damage from the backline. Playing a stealth archer (again)? Find a beefy sword and shield warrior to keep the enemies at bay while you snipe from the shadows.
+- There's a loading screen tip I'm fond of that says something along the lines of "Strong enemies care not if you're just starting out, they'll kill you all the same." Don't be afraid to run away.
+- For some easy XP that isn't dangerous to get right at the beginning, head to Helgen. It will complete the start of Skyrim's main questline, help you level up, and has zero enemies to fight (excepting any you find on your way there).
 
 ## Important Mods You Need to Know About
 This section details the most important mods included in Living Skyrim and is intended to give you a basic understanding of what to expect when you start the game.
@@ -276,25 +332,81 @@ Living Skyrim includes a completely different UI and HUD experience than what yo
 ### Nether's Follower Framework
 [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/18076) has too many features to list, but what you need to know is this: You can have multiple followers, you can configure just about anything about them, and you'll have a lot more flexibility with controlling your followers. You can also import followers added by mods to be able to use NFF's features on them. **Important!:** *Do NOT* import standalone followers (Inigo, Lucien, etc.) into Nether's Follower Framework. It will 100% break them. The notable exceptions to this are Auri, Sophia, and any of the Interesting NPCs followers.
 
+## Common Issues
+### Wabbajack Issues
+#### "A mod failed to download."
+The short answer: wait for an update to the list. The long answer is you can try to install the missing mods manually if the files are still available on the Nexus, but again, do not ask for anyone to share old files. I work a full-time job in addition to several other personal projects, of which Living Skyrim is just one. If installs are failing, I will try to update as quickly as possible but sometimes it may be a couple of days before I can get to it.
+
+#### "Wabbajack says I'm out of requests."
+Nexus Premium is limited to 2500 downloads in a given 24 hour timeframe. Usually this limit resets around 8PM Eastern Time. Wait for your limit to reset and you'll be able to proceed. Usually this only occurs after attempting to download the list multiple times in a row or when attempting to download multiple lists.
+
+#### "Rayek's End is reporting something weird during installation."
+Click this link for a workaround: [Rayek's End Workaround](https://github.com/ForgottenGlory/Living-Skyrim-2/issues/69#issuecomment-643644342) This is usually caused by having a language other than English installed on your system.
+
+#### "Can I pause the installation?"
+Yes, just close Wabbajack. When you start the installation process again it will pick up from where it left off.
+
+#### "Can I delete the downloads folder after installing?"
+Yes, but remember that if you need to update the list you will have to download all of the mods again.
+
+#### "The LS2 DynDOLOD Output fails to download."
+You'll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [LS2 DynDOLOD 2.4.0](https://drive.google.com/file/d/1tSWvQiXIHqgngYmoW5eUHQFerUsOP7Wo/view?usp=sharing)
+
+### Gameplay Issues
+#### "The Main Quest doesn't proceed after retrieving the Dragonstone."
+Read this modpage: [Not So Fast - Main Quest](https://www.nexusmods.com/skyrimspecialedition/mods/2475)
+
+#### "Tolfdir doesn't invite me to Saarthal right away."
+Read this modpage: [Not So Fast - Mage Guild](https://www.nexusmods.com/skyrimspecialedition/mods/5686)
+
+#### "Can I access RaceMenu after character creation?"
+Only if you are **not** changing your character's gender or race. Changing gender/race will cause issues with powers and passive buffs your character has.
+
+#### "Can I change my attributes after starting?"
+No. The choices you make are permanent. You can increase your attributes through various methods, refer to this modpage for more details: [AVA](https://www.nexusmods.com/skyrimspecialedition/mods/23329)
+
+#### "When I click to select a bonus after leveling up my stats don't change."
+This is intended. Natural Character Growth and Decay adjusts your stats as you use them. Using a lot of health/stamina? They'll automatically increase over time. The option to pick health/stamina/magicka will still appear due to game limitations, but it won't do anything. The same is true of carry weight: it will go up automatically over time if you're carrying a lot of items. If you want to cheat, you can turn the level-up bonuses to health/magicka/stamina back on in the NCGD MCM menu.  
+
+#### "My screen is zoomed in or weirdly off-center."
+Check the SSE Display Tweaks INI file to make sure you have the resolution for your screen set correctly. You may also need to check BethINI or the Skyrim INI files to make sure they all match your screen's resolution.
+
+#### "Dead NPCs turn purple?"
+This is part of Frozen Electrocuted Combustion, specifically the decay part. Modpage for more details: [FEC](https://www.nexusmods.com/skyrimspecialedition/mods/3532)
+
+#### "Is Hunterborn broken?" or "QuickLoot breaks Hunterborn?"
+The current version of QuickLoot has some weird effects when used in conjunction with mods that affect looting, primarily Hunterborn (but also a few others too). These issues are known to the author of QuickLoot and will be resolved at some point with an update to that mod. QuickLoot can be safely disabled in Mod Organizer 2 without any repurcussions if you find this behavior annoying/unsatisfying.
+
+#### "MO2 cannot find SKSE."
+You'll need to manually set the path for SKSE using the Edit Executables menu in MO2. Also make sure you have followed the [Game Folder Files](#game-folder-files) step of this readme.
+
+#### "Can I use a controller?"
+I strongly advise against it. With as many mods as there are in the list, you'll need a full breadth of keyboard keys to activate and use every feature. If you absolutely must play with a controller, please, for the love of all that is holy, use [Gamepad++](https://www.nexusmods.com/skyrimspecialedition/mods/27007).
+
+#### "My game freezes when saving."
+Make sure you’ve disabled all overlays for Skyrim. The most common ones are Discord, Steam, and nVidia. Other overlays from things like MSI Afterburner and f.lux have also been known to cause issues.
+
+#### "Can I play this list on a 75/100/144hz screen?"
+Yes. Display Tweaks SSE is included which allows for this.
+
+#### "My equipment animations are broken/weird!"
+First, check to make sure you’ve followed the MCM instructions for XPMSE. This should fix any weirdness (sword on hip but being drawn from back, for example.). If you’ve just equipped a new weapon/shield, the animation to draw it may be weird for a few seconds but it will eventually fix itself. XPMSE and AllGUD need a few seconds to register the new weapon configuration and should fix themselves. This is not a bug, just be patient and the mods will figure it out eventually.
+
+#### "Can I use this list on an ultrawide monitor?"
+Yes, [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) is included by default. Just make sure to enable it
+
+#### "Immersive Spell Learning still allows me to read the spell tome to learn spells instantly."
+Yes, this is a known issue and is somewhat intended. Legacy of the Dragonborn's museum counts spell tomes towards its display count, so rather than have players find/buy two copies of a spell tome (one to learn from and the other to store in the museum), I've opted to allow spell tomes to stay in your inventory. If you don't like having the temptation of "cheating" and don't mind having to hunt down a second copy of the book, you can always enable "Destroy Spell Tomes" in the Immersive Spell Learning MCM.
+
+#### "What the heck is going on with the dialogue menu?"
+It's being modified by [EZ2C Dialogue Menu](https://www.nexusmods.com/skyrimspecialedition/mods/2246/). Check that mod's page for details of how to configure it if it's not to your liking.
+
 ## Final Thoughts & Best Practices
 - If you are not familiar with the contents of this modlist, links are provided in the [LS2 Spreadsheet](https://docs.google.com/spreadsheets/d/1i31E32PtFQv_soryzrH8dOmk-Yk3n1GZIuQnuFsy2XY/edit?usp=sharing) to every mod so you can review their content/changes.
 - Autosaves are disabled. This save option is known to cause issues with heavily scripted games. Quicksaves are automatically turned into Manual Saves by SSE Engine Fixes. It is recommended to save **early** and **often**. Every 15 minutes and before interacting with quest NPCs, quest objects, and entering new zones should be sufficient. **Old saves can be deleted, but forgetting to save loses progress forever!**
 - Wabbajack supports updating/upgrading over an existing installation, but it will automatically delete any files that aren’t used for the modlist installation. This means if you have changed the modlist in any way, Wabbajack will delete those changes and **delete your saves.** Keep backups of any changes you do make and your saves (as ill-advised as making changes may be).
 - **NEVER** save right after a loading screen. Wait 30 seconds before saving to let scripts finish executing. It's always better to save before a loading screen than after one.
 - **NEVER** use autosaves. Autosaves are unpredictable at best, and save-corrupting at worst.
-
-### Getting Started in Living Skyrim
-If you're coming from a previous version of Living Skyrim (1.x.x), throw out everything you thought you knew. If you're new to Living Skyrim, welcome! It's gonna be a bumpy ride - at first.
-
-- Bandits are your best bet for early levels. They usually come in small enough groups to be manageable and are almost always around your level or slightly higher.
-- Undead are going to be nearly impossible until you hit level 10-15. This includes skeletons, draugr, vampires, etc. Dwemer and Falmer are out of the question until higher levels as well. Dragons start at level 20 and only go up.
-- Most questlines should be doable from the very beginning, but keep in mind the previous two points. Bleak Falls Barrow will present a significant challenge to low-level characters and the first dragon fight will require around level 20.
-- The Whiterun/Riverwood area is best for starting out - northern areas will be significantly more difficult.
-- Overworld enemies are going to be easier and in smaller groups than dungeons, but avoid the larger overworld locations when starting out: Silent Moons Camp, Fort Greymoor, etc. Delving into caves and dungeons is a good way to get surrounded by a group of 6-10 enemies.
-- Followers are your friends! There's an absolute boatload of followers for you to find and pickup - whether it's Sofia, Inigo, Garm, Mirai, Hoth, or any of the 3DNPCs, there's bound to be at least one person in every city that you can ask to help you out. Nether's Follower Framework also lets you recruit many of the generic mercenaries you see wandering around if you just want a temporary companion. It's extremely easy to assemble a diverse adventuring party if you so choose. If you prefer the lone wanderer style, be prepared for things to be more difficult - having at least one follower is highly recommended.
-- Specialize your character. The combination of class and customization mods lets you focus your character in a way that vanilla Skyrim never did. It's extremely likely you'll start with one, maybe two skills that are any good and the rest will be total garbage. Focus on what your character is good at and it will pay dividends. When selecting how to allocate your attribute points, think about the rest of your build and put points into attributes that compliment how you want to play. Many attributes provide direct bonuses to how much damage you deal with specific types of weapons, how much health/stamina/magicka you start with, and so on. Specialized characters are much better suited to the challenges of Living Skyrim than jack-of-all-trades types. This also encourages you to pick up a follower that compliments your skills. Playing a tanky two-handed character? Find a follower that can cast healing spells on you and do magic damage from the backline. Playing a stealth archer (again)? Find a beefy sword and shield warrior to keep the enemies at bay while you snipe from the shadows.
-- There's a loading screen tip I'm fond of that says something along the lines of "Strong enemies care not if you're just starting out, they'll kill you all the same." Don't be afraid to run away.
-- For some easy XP that isn't dangerous to get right at the beginning, head to Helgen. It will complete the start of Skyrim's main questline, help you level up, and has zero enemies to fight (excepting any you find on your way there).
 
 ### NeverNude?
 Living Skyrim can be made NeverNude.
@@ -316,64 +428,35 @@ The first thing you need to know is that adding to, removing from, or changing L
 
 If you are missing any of these skills, you need to be willing to put in the time to learn them to even consider adding to Living Skyrim. Again, no support is provided for this, so you are *completely on your own* when it comes to these. If you aren't willing to put in the time to learn how to add mods properly, you will *not, under any circumstances* be able to add to the list. Living Skyrim 2 is at the ESP/ESM plugin limit, adding even one mod improperly will result in the entire list breaking.
 
-## Troubleshooting & FAQ
-Additions will be made to this FAQ as needed.
-
-**What do/don’t you support?**  
+## Other Common Questions
+### What do/don’t you support?
 All unmodified Wabbajack installs of Living Skyrim are supported. Pirated copies of Skyrim are illegal and not supported. Any modlist that changes Living Skyrim by adding/removing mods is not supported. Manually installed reproductions of Living Skyrim are not supported. Any ENB compatible with the weather mods installed with Living Skyrim are supported. With extremely few exceptions, mods from LE/Oldrim are not supported and will never be included in Living Skyrim. Converting old saves to Living Skyrim is not supported, only new saves created after Living Skyrim is installed are supported. The same is true of saves from previous versions of Living Skyrim.
 
-**The installer isn’t working, what can I do?**  
+### The installer isn’t working, what can I do? 
 The short answer: wait for an update. The long answer is you can try to install the missing mods manually if the files are still available on the Nexus, but again, do not ask for anyone to share old files. I work a full-time job in addition to several other personal projects, of which Living Skyrim is just one. If installs are failing, I will try to update as quickly as possible but sometimes it may be a couple of days before I can get to it.
 
-**How often does Living Skyrim update?**  
+### How often does Living Skyrim update?
 There’s no set schedule for Living Skyrim updates. If a mod updates and the list requires a revision, I’ll try to get to it as quickly as possible, but I make no promises. Sometimes troubleshooting updates and rebuilding the list can take days. Anytime there is an update, it will be clearly communicated on the Wabbajack and Living Skyrim Discord servers. That being said, as long as nothing else changes, you should be safe to continue playing an existing installation unless there is an update to Skyrim itself. Remember: the point of all modlists is to play the game. If you’re spending more time updating your list than playing, you’re doing it wrong.
 
-**I found a bug! How do I report it?**  
+### I found a bug! How do I report it?
 Check the [LS Issues](https://github.com/ForgottenGlory/Living-Skyrim-2/issues). If it’s not already on there, submit a new issue. Be as specific as possible, including screenshots if possible. If it is related to a specific mod, include the name of the mod and the exact steps to reproduce the issue. The best thing you can send for things like incorrect numbers/values or dark face NPCS (if there are any)  is a screenshot of the thing in question selected with the console including the ID of the object/character. Vague reports such as “my game randomly CTDs” will be ignored if they do not include more details.
 
-**Can I play this list on a 75/100/144hz screen?**  
-Yes. Display Tweaks SSE is included which allows for this.
-
-**Is [mod name] included in this list?**  
+### Is [mod name] included in this list?
 Probably not. Check the [LS spreadsheet](https://docs.google.com/spreadsheets/d/1i31E32PtFQv_soryzrH8dOmk-Yk3n1GZIuQnuFsy2XY/edit?usp=sharing) to be certain. 
 
-**The modlist updated! Do I have to update and start a new save?**  
+### The modlist updated! Do I have to update and start a new save?
 If your game is working, you’re not required to update. It’s always recommended though, as updates likely fix bugs, update mods, or add new mods or remove unsatisfactory ones. As for starting a new save, it depends on the version. In general, anything that is a 2.0.x update won’t break your save, and is usually just for when a mod updates and the list needs to be recompiled to make it work again. Anything that is an 2.x.0 update adds or removes mods, which likely will break your save (unless otherwise specified). Any full version number changes, x.0.0, are major overhauls/rebuilds of the list and are guaranteed to break your save.
 
-**Can my computer run this list? [insert specs]**  
+### Can my computer run this list? [insert specs]
 If you have to ask, my guess is probably not. LS2 requires a strong computer to run well. You can reduce some of the demand on your computer by not using ENB, but for the most part computers with 4 or less VRAM are going to be unable to play LS2. PCs with 6GB of VRAM will perform moderately well if they eschew ENB. To get good performance, you'll need at least 8GB of VRAM on a relatively new graphics card.
 
-**Some Alternate Starts are impossible/OP!**  
+### Some Alternate Starts are impossible/OP!
 Unlikely. Fighting everything isn’t an option in this list. OBIS, Genesis, and the combat mods make sure of that. Running away is required sometimes. On the flip side, you’ll quickly run into enemies that are stronger than you even with the “OP” starts. Sometimes you’ll need to clear part of a dungeon and then come back to it later when you’re stronger. The Take Notes mod is very helpful for remembering places you need to revisit. If you’re struggling to level up, Missives and just exploring is your friend. Hunting wildlife is also viable to make some coin for better equipment. Most of the first few quests of the major factions/guilds are possible early on, but the main quest will likely need to wait until you’ve established yourself somewhat.
 
-**Can I stream/Let’s Play this modlist?**  
+### Can I stream/Let’s Play this modlist?  
 Absolutely.
 
-**My equipment animations are broken/weird!**  
-First, check to make sure you’ve followed the MCM instructions for XPMSE. This should fix any weirdness (sword on hip but being drawn from back, for example.). If you’ve just equipped a new weapon/shield, the animation to draw it may be weird for a few seconds but it will eventually fix itself. XPMSE and AllGUD need a few seconds to register the new weapon configuration and should fix themselves. This is not a bug, just be patient and the mods will figure it out eventually.
-
-**Master of Disguise asks me to update every time I load the game.**  
-Yep, it’s really annoying. You can turn it off in the MCM for Master of Disguise in the Advanced Menu. Turn off the Factions Update Auto Run.
-
-**My game freezes when saving.**  
-Make sure you’ve disabled all overlays for Skyrim. The most common ones are Discord, Steam, and nVidia. Other overlays from things like MSI Afterburner and f.lux have also been known to cause issues.
-
-**Can I use this list on an ultrawide monitor?**  
-Yes, [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) is included by default. Just make sure to enable it.
-
-**What the heck is going on with the dialogue menu?**  
-It's being modified by [EZ2C Dialogue Menu](https://www.nexusmods.com/skyrimspecialedition/mods/2246/). Check that mod's page for details of how to configure it if it's not to your liking.
-
-**Immersive Spell Learning still allows me to read the spell tome to learn spells instantly!**  
-Yes, this is a known issue and is somewhat intended. Legacy of the Dragonborn's museum counts spell tomes towards its display count, so rather than have players find/buy two copies of a spell tome (one to learn from and the other to store in the museum), I've opted to allow spell tomes to stay in your inventory. If you don't like having the temptation of "cheating" and don't mind having to hunt down a second copy of the book, you can always enable "Destroy Spell Tomes" in the Immersive Spell Learning MCM.
-
-**My health/stamina/magicka don't increase when leveling up!**  
-This is intended. Natural Character Growth and Decay adjusts your stats as you use them. Using a lot of health/stamina? They'll automatically increase over time. The option to pick health/stamina/magicka will still appear due to game limitations, but it won't do anything. The same is true of carry weight: it will go up automatically over time if you're carrying a lot of items. If you want to cheat, you can turn the level-up bonuses to health/magicka/stamina back on in the NCGD MCM menu.  
-
-**Why is QuickLoot acting weirdly with Hunterborn (and related mods)?**  
-The current version of QuickLoot has some weird effects when used in conjunction with mods that affect looting, primarily Hunterborn (but also a few others too). These issues are known to the author of QuickLoot and will be resolved at some point with an update to that mod. QuickLoot can be safely disabled in Mod Organizer 2 without any repurcussions if you find this behavior annoying/unsatisfying.
-
-**Can I request a mod be added to Living Skyrim?**  
+### Can I request a mod be added to Living Skyrim?
 Yes. To submit a mod to be considered for inclusion in LS, you must attach a copy of your save game where you have defeated Alduin using an unmodified LS installation. Any suggestions without this attached will be automatically rejected. This is not a guarantee that the mod will be included, only that it will be considered. Head to the Living Skyrim Github if you'd like to submit your mod request and save file.
 
 ## Credits & Thanks
