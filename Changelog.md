@@ -851,3 +851,13 @@
   * Updated Helarchen Creek to v2.0.7
   * Updated Window Shadows to v6.0b
   * Updated Zephyr Retextured to v1.6
+
+### 2.5.2 10/27/2020
+#### Incremental
+* **Mod Updates**
+  * Updated Male NPC Overhaul to v4.02
+  * Updated Ethereal Clouds to v3.0
+  * Updated DynDOLOD EXE to v2.86
+  * Updated 4K Hunting Bow to v1.1
+  * Updated 4K Imperial Bow to v1.5
+  * Updated Pandorable's AIO Patches
