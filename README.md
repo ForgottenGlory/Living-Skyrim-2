@@ -3,6 +3,8 @@ Current version: 10/6/2020 2.5.0
 ![total-installs](https://img.shields.io/endpoint?label=Total%20Installs&style=for-the-badge&url=https://build.wabbajack.org/metrics/badge/living_skyrim/total_installs_badge.json)  
 ![build-status](https://img.shields.io/endpoint?label=List%20Status&style=for-the-badge&url=https://build.wabbajack.org/lists/status/living_skyrim/badge.json)
 
+**Living Skyrim 3 is under active development. LS2 will only receive updates if necessary to keep the list installable. More details about LS3 can be found here:** https://github.com/ForgottenGlory/Living-Skyrim-2/blob/master/LS3%20Roadmap.md
+
 ## Preface
 The number one goal of Living Skyrim is to bring the world to life. This, in a nutshell, means that you will find an astounding number of new NPCs, quests, world spaces, dungeons, followers, and more. No stone has been left unturned and stepping into Living Skyrim means stepping into a world where every corner brings a new face to fight, befriend, or serve. This modlist takes a semi-lore friendly approach to adding things and uses a multitude of overhauls to breathe new life into the stagnant and unchanging systems of vanilla Skyrim. However, it is a primary tenet of Living Skyrim that the new systems added to the game don't add tedium or monotony to the game - some mods and settings are specifically avoided such that the game isn't slowed down unnecessarily. The few inclusions that do slow things down are included for balance, pacing, or roleplay purposes.
 
